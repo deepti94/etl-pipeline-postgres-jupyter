@@ -19,7 +19,7 @@ Originally, the project used Metabase for reporting, but to make setup faster an
 ## 📂 Project Structure
 ```bash
 .
-├── docker-compose.yml # Orchestration for Postgres, ETL, and Jupyter
+├── docker-compose.yml
 ├── etl/ # ETL service code
 │ ├── app.py # Main ETL logic
 │ ├── requirements.txt # Python dependencies
