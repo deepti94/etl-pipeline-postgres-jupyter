@@ -1,0 +1,46 @@
+version: '3.8'
+services:
+  postgres:
+    image: postgres:15
+    environment:
+      POSTGRES_USER: etl_user
+      POSTGRES_PASSWORD: etl_pass
+      POSTGRES_DB: etl_db
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./sql:/docker-entrypoint-initdb.d
+    ports:
+      - "5432:5432"
+
+  etl:
+    build: ./etl
+    environment:
+      DB_HOST: postgres
+      DB_PORT: 5432
+      DB_NAME: etl_db
+      DB_USER: etl_user
+      DB_PASS: etl_pass
+      INTERVAL_MINUTES: "60"
+      FEED_DIR: /data/feed
+    volumes:
+      - ./feed:/data/feed
+    depends_on:
+      - postgres
+
+  jupyter:
+    image: jupyter/base-notebook:latest
+    container_name: jupyter
+    environment:
+      - JUPYTER_TOKEN=etl
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./notebooks:/home/jovyan/work
+    depends_on:
+      - postgres
+    command: >
+      bash -c "pip install pandas sqlalchemy psycopg2-binary seaborn &&
+               start-notebook.sh --NotebookApp.token='etl'"
+
+volumes:
+  pgdata:

@@ -1,0 +1,13 @@
+FROM python:3.11-slim
+
+WORKDIR /app
+
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+
+COPY . .
+
+# create feed dir if absent
+RUN mkdir -p /data/feed
+
+CMD ["python", "app.py"]
