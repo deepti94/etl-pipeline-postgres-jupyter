@@ -17,6 +17,7 @@ Originally, the project used Metabase for reporting, but to make setup faster an
 ---
 
 ## 📂 Project Structure
+```bash
 .
 ├── docker-compose.yml # Orchestration for Postgres, ETL, and Jupyter
 ├── etl/ # ETL service code
@@ -28,6 +29,8 @@ Originally, the project used Metabase for reporting, but to make setup faster an
 ├── notebooks/ # Jupyter notebooks for reporting
 │ └── reporting.ipynb # Example dashboard
 └── README.md
+
+```
 
 
 
@@ -57,8 +60,10 @@ Originally, the project used Metabase for reporting, but to make setup faster an
 
 ## 🚀 Setup & Run
 
-1️⃣ Start the services
 ```bash
+
+1️⃣ Start the services
+
 docker compose up --build
 
 This starts:
@@ -99,6 +104,7 @@ sns.countplot(data=df, x="contract")
 plt.title("Contract Distribution")
 plt.show()
 
+```
 
 ⚙️ Configuration
 Edit docker-compose.yml to change:
