@@ -13,7 +13,7 @@ This project implements a lightweight ETL pipeline for ingesting, transforming, 
 - Exports final data to CSV for external use  
 - Generates basic reports and visualizations using Streamlit  
 - Scheduling of the ETL pipeline every 60 seconds using APScheduler  
-- Logging of ETL runs and errors  
+ 
 
 ---
 
