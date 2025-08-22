@@ -1,0 +1,1001 @@
+CustomerID,Age,Gender,Tenure,MonthlyCharges,ContractType,InternetService,TotalCharges,TechSupport,Churn
+c4ca4238a0b923820dcc509a6f75849b,49,Other,4,88.35,Month-to-Month,Fiber Optic,353.4,Yes,Yes
+c81e728d9d4c2f636f067f89cc14862c,43,Other,0,36.67,Month-to-Month,Fiber Optic,0.0,Yes,Yes
+eccbc87e4b5ce2fe28308fd9f2a7baf3,51,Other,2,63.79,Month-to-Month,Fiber Optic,127.58,No,Yes
+a87ff679a2f3e71d9181a67b7542122c,60,Other,8,102.34,One-Year,DSL,818.72,Yes,Yes
+e4da3b7fbbce2345d7772b0674a318d5,42,Other,32,69.01,Month-to-Month,,2208.32,No,Yes
+1679091c5a880faf6fb5e6087eb1b2dc,42,Other,16,119.75,Two-Year,DSL,1916.0,Yes,Yes
+8f14e45fceea167a5a36dedd4bea2543,60,Other,14,80.32,One-Year,,1124.48,No,Yes
+c9f0f895fb98ab9159f51fd0297e236d,52,Other,6,58.9,One-Year,,353.4,No,Yes
+45c48cce2e2d7fbdea1afc51c7c6ad26,40,Other,53,49.81,Two-Year,Fiber Optic,2639.9300000000003,Yes,No
+d3d9446802a44259755d38e6d163e820,50,Other,10,61.55,Month-to-Month,Fiber Optic,615.5,Yes,Yes
+6512bd43d9caa6e02c990b0a82652dca,40,Other,1,63.53,Month-to-Month,Fiber Optic,63.53,Yes,Yes
+c20ad4d76fe97759aa27a0c99bff6710,40,Other,19,36.18,One-Year,Fiber Optic,687.42,Yes,No
+c51ce410c124a10e0db5e4b97fc2af39,47,Other,2,63.26,Two-Year,,126.52,No,Yes
+aab3238922bcc25a6f606eb525ffdc56,25,Other,8,71.78,One-Year,,574.24,No,Yes
+9bf31c7ff062936a96d3c8bd1f8f2ff3,27,Other,14,95.05,Month-to-Month,Fiber Optic,1330.7,Yes,Yes
+c74d97b01eae257e44aa9d5bade97baf,39,Other,41,89.11,Two-Year,Fiber Optic,3653.51,Yes,No
+70efdf2ec9b086079795c442636b55fb,34,Other,13,93.79,Month-to-Month,,1219.27,No,Yes
+6f4922f45568161a8cdf4ad2299f6d23,48,Other,24,30.75,Two-Year,,738.0,No,Yes
+1f0e3dad99908345f7439f8ffabdffc4,35,Other,98,49.59,Two-Year,Fiber Optic,4859.820000000001,Yes,No
+98f13708210194c475687be6106a3b84,30,Other,2,89.55,Month-to-Month,Fiber Optic,179.1,No,Yes
+3c59dc048e8850243be8079a5c74d079,59,Other,6,73.56,One-Year,DSL,441.36,No,Yes
+b6d767d2f8ed5d21a44b0e5886680cb9,42,Other,10,30.48,Month-to-Month,,304.8,No,Yes
+37693cfc748049e45d87b8c7d8b9aacd,45,Other,10,102.4,Month-to-Month,DSL,1024.0,Yes,Yes
+1ff1de774005f8da13f42943881c655f,30,Other,10,99.55,One-Year,Fiber Optic,995.5,Yes,Yes
+8e296a067a37563370ded05f5a3bf3ec,39,Other,47,79.36,One-Year,DSL,3729.92,Yes,No
+4e732ced3463d06de0ca9a15b6153677,46,Other,25,35.98,Two-Year,DSL,899.4999999999999,Yes,No
+02e74f10e0327ad868d138f2b4fdd6f0,33,Other,18,98.99,One-Year,Fiber Optic,1781.82,Yes,No
+33e75ff09dd601bbe69f351039152189,48,Other,7,82.53,Month-to-Month,,577.71,No,Yes
+6ea9ab1baa0efb9e19094440c317e21b,38,Other,34,100.38,Two-Year,DSL,3412.92,Yes,Yes
+34173cb38f07f89ddbebc2ac9128303f,42,Other,62,97.66,Two-Year,Fiber Optic,6054.92,Yes,No
+c16a5320fa475530d9583c34fd356ef5,38,Other,34,102.27,Month-to-Month,DSL,3477.18,No,Yes
+6364d3f0f495b6ab9dcf8d3b5c6e0b01,63,Other,0,76.62,Two-Year,DSL,0.0,Yes,Yes
+182be0c5cdcd5072bb1864cdee4d3d6e,44,Other,20,42.63,Month-to-Month,Fiber Optic,852.6,Yes,Yes
+e369853df766fa44e1ed0ff613f563bd,34,Other,1,90.4,Two-Year,Fiber Optic,90.4,Yes,Yes
+1c383cd30b7c298ab50293adfecb7b18,53,Other,5,85.84,Month-to-Month,DSL,429.2000000000001,Yes,Yes
+19ca14e7ea6328a42e0eb13d585e4c22,32,Other,1,96.8,Month-to-Month,Fiber Optic,96.8,No,Yes
+a5bfc9e07964f8dddeb95fc584cd965d,47,Other,18,45.29,Month-to-Month,DSL,815.22,Yes,Yes
+a5771bce93e200c36f7cd9dfd0e5deaa,25,Other,23,47.55,One-Year,Fiber Optic,1093.65,Yes,No
+d67d8ab4f4c10bf22aa353e27879133c,31,Other,2,110.14,Month-to-Month,,220.28,No,Yes
+d645920e395fedad7bbbed0eca3fe2e0,46,Other,9,97.5,Month-to-Month,,877.5,No,Yes
+3416a75f4cea9109507cacd8e2f2aefc,52,Other,12,111.74,One-Year,Fiber Optic,1340.88,Yes,Yes
+a1d0c6e83f027327d8461063f4ac58a6,46,Other,9,98.28,Two-Year,Fiber Optic,884.52,Yes,Yes
+17e62166fc8586dfa4d1bc0e1742c08b,43,Other,2,83.74,Month-to-Month,,167.48,No,Yes
+f7177163c833dff4b38fc8d2872f1ec6,41,Other,10,88.87,Month-to-Month,DSL,888.7,Yes,Yes
+6c8349cc7260ae62e3b1396831a8398f,30,Other,27,110.02,Month-to-Month,,2970.54,No,Yes
+d9d4f495e875a2e075a1a4a6e1b9770f,37,Other,1,82.09,Month-to-Month,,82.09,No,Yes
+67c6a1e7ce56d3d6fa748ab6d9af3fd7,40,Other,1,86.92,Two-Year,DSL,86.92,Yes,Yes
+642e92efb79421734881b53e1e1b18b6,55,Other,8,44.08,Two-Year,DSL,352.64,No,Yes
+f457c545a9ded88f18ecee47145a72c0,48,Other,56,72.65,One-Year,,4068.400000000001,No,Yes
+c0c7c76d30bd3dcaefc96f40275bdc0a,27,Other,22,94.48,Month-to-Month,Fiber Optic,2078.56,Yes,Yes
+2838023a778dfaecdc212708f721b788,48,Other,22,54.38,One-Year,DSL,1196.36,Yes,No
+9a1158154dfa42caddbd0694a4e9bdc8,41,Other,8,48.2,One-Year,DSL,385.6,No,Yes
+d82c8d1619ad8176d665453cfb2e55f0,38,Other,18,58.24,Two-Year,Fiber Optic,1048.32,Yes,No
+a684eceee76fc522773286a895bc8436,51,Other,0,51.74,One-Year,Fiber Optic,0.0,No,Yes
+b53b3a3d6ab90ce0268229151c9bde11,55,Other,20,49.34,One-Year,,986.8,No,Yes
+9f61408e3afb633e50cdf1b20de6f466,54,Other,48,68.24,One-Year,,3275.5199999999995,No,Yes
+72b32a1f754ba1c09b3695e0cb6cde7f,36,Other,18,111.71,Month-to-Month,DSL,2010.78,Yes,Yes
+66f041e16a60928b05a7e228a89c3799,41,Other,41,75.64,Two-Year,Fiber Optic,3101.24,Yes,No
+093f65e080a295f8076b1c5722a46aa2,48,Other,25,46.91,One-Year,Fiber Optic,1172.75,No,Yes
+072b030ba126b2f4b2374f342be9ed44,54,Other,2,36.93,One-Year,Fiber Optic,73.86,No,Yes
+7f39f8317fbdb1988ef4c628eba02591,40,Other,46,92.65,Month-to-Month,DSL,4261.900000000001,Yes,Yes
+44f683a84163b3523afe57c2e008bc8c,43,Other,1,64.45,One-Year,,64.45,No,Yes
+03afdbd66e7929b125f8597834fa83a4,33,Other,15,103.96,One-Year,,1559.4,No,Yes
+ea5d2f1c4608232e07d3aa3d998e5135,33,Other,3,89.36,Month-to-Month,Fiber Optic,268.08,Yes,Yes
+fc490ca45c00b1249bbe3554a4fdf6fb,53,Other,0,101.66,Month-to-Month,Fiber Optic,0.0,Yes,Yes
+3295c76acbf4caaed33c36b1b5fc2cb1,58,Other,10,54.48,One-Year,DSL,544.8,Yes,Yes
+735b90b4568125ed6c3f678819b6e058,44,Other,6,92.31,One-Year,Fiber Optic,553.86,Yes,Yes
+a3f390d88e4c41f2747bfa2f1b5f87db,55,Other,13,53.77,One-Year,Fiber Optic,699.01,Yes,No
+14bfa6bb14875e45bba028a21ed38046,48,Other,17,114.52,Month-to-Month,Fiber Optic,1946.84,Yes,Yes
+7cbbc409ec990f19c78c75bd1e06f215,38,Other,0,87.27,One-Year,,0.0,No,Yes
+e2c420d928d4bf8ce0ff2ec19b371514,48,Other,2,59.21,Month-to-Month,Fiber Optic,118.42,Yes,Yes
+32bb90e8976aab5298d5da10fe66f21d,60,Other,16,54.26,Month-to-Month,Fiber Optic,868.16,Yes,Yes
+d2ddea18f00665ce8623e36bd4e3c7c5,44,Other,8,47.18,Month-to-Month,,377.44,No,Yes
+ad61ab143223efbc24c7d2583be69251,60,Other,26,92.52,Month-to-Month,DSL,2405.52,No,Yes
+d09bf41544a3365a46c9077ebb5e35c3,18,Other,21,49.68,Month-to-Month,Fiber Optic,1043.28,Yes,Yes
+fbd7939d674997cdb4692d34de8633c4,53,Other,37,83.58,Month-to-Month,Fiber Optic,3092.46,Yes,Yes
+28dd2c7955ce926456240b2ff0100bde,45,Other,23,53.82,Month-to-Month,Fiber Optic,1237.86,No,Yes
+35f4a8d465e6e1edc05f3d8ab658c551,42,Other,11,89.58,Month-to-Month,,985.38,No,Yes
+d1fe173d08e959397adf34b1d77e88d7,45,Other,22,103.34,One-Year,Fiber Optic,2273.48,Yes,Yes
+f033ab37c30201f73f142449d037028d,25,Other,6,100.02,Month-to-Month,,600.12,No,Yes
+43ec517d68b6edd3015b3edc9a11367b,42,Other,7,98.48,Month-to-Month,Fiber Optic,689.36,No,Yes
+9778d5d219c5080b9a6a17bef029331c,48,Other,31,46.9,Two-Year,Fiber Optic,1453.9,No,Yes
+fe9fc289c3ff0af142b6d3bead98a923,59,Other,11,37.95,Month-to-Month,,417.4500000000001,No,Yes
+68d30a9594728bc39aa24be94b319d21,39,Other,32,92.91,One-Year,DSL,2973.12,No,Yes
+3ef815416f775098fe977004015c6193,36,Other,34,63.15,Month-to-Month,DSL,2147.1,Yes,Yes
+93db85ed909c13838ff95ccfa94cebd9,39,Other,38,68.91,Month-to-Month,Fiber Optic,2618.58,Yes,Yes
+c7e1249ffc03eb9ded908c236bd1996d,54,Other,49,32.8,One-Year,DSL,1607.1999999999998,Yes,No
+2a38a4a9316c49e5a833517c45d31070,48,Other,11,53.36,One-Year,DSL,586.96,Yes,Yes
+7647966b7343c29048673252e490f736,39,Other,7,33.03,Two-Year,Fiber Optic,231.21,Yes,Yes
+8613985ec49eb8f757ae6439e879bb2a,50,Other,17,109.13,One-Year,Fiber Optic,1855.21,Yes,Yes
+54229abfcfa5649e7003b83dd4755294,45,Other,9,51.91,Two-Year,Fiber Optic,467.18999999999994,Yes,Yes
+92cc227532d17e56e07902b254dfad10,54,Other,18,80.16,Month-to-Month,,1442.88,No,Yes
+98dce83da57b0395e163467c9dae521b,37,Other,24,33.51,Month-to-Month,Fiber Optic,804.24,Yes,Yes
+f4b9ec30ad9f68f89b29639786cb62ef,41,Other,23,90.02,Month-to-Month,,2070.46,No,Yes
+812b4ba287f5ee0bc9d43bbf5bbe87fb,41,Other,9,59.07,Month-to-Month,DSL,531.63,Yes,Yes
+26657d5ff9020d2abefe558796b99584,30,Other,3,110.81,One-Year,Fiber Optic,332.43,Yes,Yes
+e2ef524fbf3d9fe611d5a8e90fefdc9c,47,Other,11,109.93,One-Year,,1209.23,No,Yes
+ed3d2c21991e3bef5e069713af9fa6ca,47,Other,3,59.28,Month-to-Month,Fiber Optic,177.84,Yes,Yes
+ac627ab1ccbdb62ec96e702f07f6425b,45,Other,44,111.09,Two-Year,,4887.96,No,Yes
+f899139df5e1059396431415e770c6dd,42,Other,8,119.65,Two-Year,Fiber Optic,957.2,Yes,Yes
+38b3eff8baf56627478ec76a704e9b52,30,Other,3,104.29,Month-to-Month,DSL,312.87,Yes,Yes
+ec8956637a99787bd197eacd77acce5e,40,Other,0,106.04,Month-to-Month,Fiber Optic,0.0,Yes,Yes
+6974ce5ac660610b44d9b9fed0ff9548,41,Other,20,52.41,Month-to-Month,Fiber Optic,1048.1999999999998,Yes,Yes
+c9e1074f5b3f9fc8ea15d152add07294,36,Other,20,81.9,Month-to-Month,,1638.0,No,Yes
+65b9eea6e1cc6bb9f0cd2a47751a186f,43,Other,8,36.05,Month-to-Month,DSL,288.4,Yes,Yes
+f0935e4cd5920aa6c7c996a5ee53a70f,49,Other,1,38.54,One-Year,,38.54,No,Yes
+a97da629b098b75c294dffdc3e463904,63,Other,10,119.9,Month-to-Month,,1199.0,No,Yes
+a3c65c2974270fd093ee8a9bf8ae7d0b,46,Other,7,59.4,Month-to-Month,DSL,415.8,No,Yes
+2723d092b63885e0d7c260cc007e8b9d,47,Other,22,97.34,Two-Year,Fiber Optic,2141.48,Yes,No
+5f93f983524def3dca464469d2cf9f3e,44,Other,18,102.6,One-Year,,1846.8,No,Yes
+698d51a19d8a121ce581499d7b701668,25,Other,9,107.22,Two-Year,,964.98,No,Yes
+7f6ffaa6bb0b408017b62254211691b5,44,Other,4,119.79,Month-to-Month,Fiber Optic,479.16,Yes,Yes
+73278a4a86960eeb576a8fd4c9ec6997,45,Other,88,51.73,Month-to-Month,Fiber Optic,4552.24,Yes,Yes
+5fd0b37cd7dbbb00f97ba6ce92bf5add,69,Other,12,33.63,One-Year,Fiber Optic,403.56000000000006,No,Yes
+2b44928ae11fb9384c4cf38708677c48,43,Other,23,67.01,Month-to-Month,Fiber Optic,1541.23,Yes,Yes
+c45147dee729311ef5b5c3003946c48f,48,Other,3,41.71,Month-to-Month,DSL,125.13,Yes,Yes
+eb160de1de89d9058fcb0b968dbbbd68,44,Other,13,32.02,One-Year,,416.2600000000001,No,Yes
+5ef059938ba799aaa845e1c2e8a762bd,33,Other,0,62.44,One-Year,DSL,0.0,Yes,Yes
+07e1cd7dca89a1678042477183b7ac3f,56,Other,14,100.54,Month-to-Month,DSL,1407.5600000000002,Yes,Yes
+da4fb5c6e93e74d3df8527599fa62642,52,Other,66,80.96,Month-to-Month,Fiber Optic,5343.36,Yes,Yes
+4c56ff4ce4aaf9573aa5dff913df997a,52,Other,9,58.15,Month-to-Month,Fiber Optic,523.35,Yes,Yes
+a0a080f42e6f13b3a2df133f073095dd,35,Other,0,88.89,Month-to-Month,Fiber Optic,0.0,No,Yes
+202cb962ac59075b964b07152d234b70,59,Other,0,50.88,Month-to-Month,Fiber Optic,0.0,No,Yes
+c8ffe9a587b126f152ed3d89a146b445,30,Other,9,31.29,Month-to-Month,Fiber Optic,281.61,Yes,Yes
+3def184ad8f4755ff269862ea77393dd,50,Other,3,98.79,Month-to-Month,DSL,296.37,No,Yes
+069059b7ef840f0c74a814ec9237b6ec,66,Other,0,86.14,Two-Year,Fiber Optic,0.0,Yes,Yes
+ec5decca5ed3d6b8079e2e7e7bacc9f2,35,Other,28,98.61,One-Year,,2761.08,No,Yes
+76dc611d6ebaafc66cc0879c71b5db5c,39,Other,12,33.5,One-Year,Fiber Optic,402.0,Yes,No
+d1f491a404d6854880943e5c3cd9ca25,45,Other,6,105.34,Month-to-Month,Fiber Optic,632.04,Yes,Yes
+9b8619251a19057cff70779273e95aa6,39,Other,46,85.76,Month-to-Month,Fiber Optic,3944.96,Yes,Yes
+1afa34a7f984eeabdbb0a7d494132ee5,29,Other,2,80.71,Month-to-Month,,161.42,No,Yes
+65ded5353c5ee48d0b7d48c591b8f430,45,Other,62,86.22,Month-to-Month,DSL,5345.64,No,Yes
+9fc3d7152ba9336a670e36d0ed79bc43,34,Other,7,107.8,Month-to-Month,Fiber Optic,754.6,Yes,Yes
+02522a2b2726fb0a03bb19f2d8d9524d,49,Other,43,82.82,One-Year,,3561.26,No,Yes
+7f1de29e6da19d22b51c68001e7e0e54,35,Other,18,82.29,One-Year,Fiber Optic,1481.22,No,Yes
+42a0e188f5033bc65bf8d78622277c4e,60,Other,35,119.16,One-Year,DSL,4170.599999999999,No,Yes
+3988c7f88ebcb58c6ce932b957b6f332,37,Other,82,98.11,Month-to-Month,Fiber Optic,8045.02,No,Yes
+013d407166ec4fa56eb1e1f8cbe183b9,41,Other,6,69.81,Two-Year,DSL,418.86,Yes,Yes
+e00da03b685a0dd18fb6a08af0923de0,53,Other,64,93.67,Month-to-Month,Fiber Optic,5994.88,No,Yes
+1385974ed5904a438616ff7bdb3f7439,32,Other,9,65.03,Month-to-Month,,585.27,No,Yes
+0f28b5d49b3020afeecd95b4009adf4c,47,Other,9,50.6,Month-to-Month,DSL,455.4,Yes,Yes
+a8baa56554f96369ab93e4f3bb068c22,58,Other,8,83.72,One-Year,,669.76,No,Yes
+903ce9225fca3e988c2af215d4e544d3,28,Other,15,113.54,Two-Year,DSL,1703.1,Yes,Yes
+0a09c8844ba8f0936c20bd791130d6b6,46,Other,3,113.62,Month-to-Month,,340.86,No,Yes
+2b24d495052a8ce66358eb576b8912c8,47,Other,16,60.77,Two-Year,Fiber Optic,972.32,Yes,No
+a5e00132373a7031000fd987a3c9f87b,52,Other,15,77.49,Two-Year,DSL,1162.35,Yes,No
+8d5e957f297893487bd98fa830fa6413,32,Other,28,49.05,Month-to-Month,DSL,1373.4,No,Yes
+47d1e990583c9c67424d369f3414728e,31,Other,35,119.61,Month-to-Month,,4186.35,No,Yes
+f2217062e9a397a1dca429e7d70bc6ca,50,Other,11,118.3,Month-to-Month,DSL,1301.3,Yes,Yes
+7ef605fc8dba5425d6965fbd4c8fbe1f,47,Other,7,88.46,Two-Year,DSL,619.2199999999999,Yes,Yes
+a8f15eda80c50adb0e71943adc8015cf,47,Other,6,102.4,Month-to-Month,Fiber Optic,614.4000000000001,No,Yes
+37a749d808e46495a8da1e5352d03cae,48,Other,4,94.36,One-Year,Fiber Optic,377.44,Yes,Yes
+b3e3e393c77e35a4a3f3cbd1e429b5dc,38,Other,1,83.38,Month-to-Month,Fiber Optic,83.38,Yes,Yes
+1d7f7abc18fcb43975065399b0d1e48e,47,Other,8,34.8,One-Year,DSL,278.4,Yes,Yes
+2a79ea27c279e471f4d180b08d62b00a,47,Other,6,70.93,Month-to-Month,DSL,425.58,No,Yes
+1c9ac0159c94d8d0cbedc973445af2da,37,Other,67,90.73,One-Year,DSL,6078.91,No,Yes
+6c4b761a28b734fe93831e3fb400ce87,63,Other,16,90.98,Two-Year,DSL,1455.68,Yes,No
+06409663226af2f3114485aa4e0a23b4,49,Other,8,63.58,Two-Year,Fiber Optic,508.64,Yes,Yes
+140f6969d5213fd0ece03148e62e461e,33,Other,17,114.75,Two-Year,,1950.75,No,Yes
+b73ce398c39f506af761d2277d853a92,51,Other,2,45.06,Month-to-Month,DSL,90.12,Yes,Yes
+bd4c9ab730f5513206b999ec0d90d1fb,35,Other,11,75.03,One-Year,Fiber Optic,825.33,Yes,Yes
+82aa4b0af34c2313a562076992e50aa3,52,Other,19,92.18,Month-to-Month,Fiber Optic,1751.42,Yes,Yes
+0777d5c17d4066b82ab86dff8a46af6f,56,Other,13,92.74,Month-to-Month,,1205.62,No,Yes
+fa7cdfad1a5aaf8370ebeda47a1ff1c3,36,Other,10,88.38,One-Year,,883.8,No,Yes
+9766527f2b5d3e95d4a733fcfb77bd7e,54,Other,101,54.78,Month-to-Month,,5532.78,No,Yes
+7e7757b1e12abcb736ab9a754ffb617a,49,Other,42,44.06,One-Year,DSL,1850.52,Yes,No
+5878a7ab84fb43402106c575658472fa,53,Other,19,87.23,Two-Year,DSL,1657.37,No,Yes
+006f52e9102a8d3be2fe5614f42ba989,63,Other,16,83.94,Month-to-Month,Fiber Optic,1343.04,Yes,Yes
+3636638817772e42b59d74cff571fbb3,42,Other,19,46.14,One-Year,DSL,876.66,No,Yes
+149e9677a5989fd342ae44213df68868,37,Other,4,93.46,Month-to-Month,Fiber Optic,373.84,Yes,Yes
+a4a042cf4fd6bfb47701cbc8a1653ada,36,Other,10,70.97,Month-to-Month,,709.7,No,Yes
+1ff8a7b5dc7a7d1f0ed65aaa29c04b1e,36,Other,0,90.1,Month-to-Month,,0.0,No,Yes
+f7e6c85504ce6e82442c770f7c8606f0,44,Other,12,105.36,Two-Year,,1264.32,No,Yes
+bf8229696f7a3bb4700cfddef19fa23f,48,Other,15,45.28,Two-Year,Fiber Optic,679.2,No,Yes
+82161242827b703e6acf9c726942a1e4,47,Other,5,31.72,Two-Year,Fiber Optic,158.6,Yes,Yes
+38af86134b65d0f10fe33d30dd76442e,53,Other,66,100.12,Two-Year,Fiber Optic,6607.92,No,Yes
+96da2f590cd7246bbde0051047b0d6f7,45,Other,48,84.87,Month-to-Month,DSL,4073.76,Yes,Yes
+8f85517967795eeef66c225f7883bdcb,59,Other,25,92.97,Month-to-Month,,2324.25,No,Yes
+8f53295a73878494e9bc8dd6c3c7104f,42,Other,15,105.43,One-Year,DSL,1581.45,No,Yes
+045117b0e0a11a242b9765e79cbf113f,72,Other,40,102.25,Month-to-Month,Fiber Optic,4090.0,No,Yes
+fc221309746013ac554571fbd180e1c8,51,Other,2,116.48,Month-to-Month,Fiber Optic,232.96,Yes,Yes
+4c5bde74a8f110656874902f07378009,36,Other,31,78.23,Month-to-Month,Fiber Optic,2425.13,Yes,Yes
+cedebb6e872f539bef8c3f919874e9d7,34,Other,2,73.96,One-Year,,147.92,No,Yes
+6cdd60ea0045eb7a6ec44c54d29ed402,49,Other,31,66.17,One-Year,Fiber Optic,2051.27,Yes,No
+eecca5b6365d9607ee5a9d336962c534,42,Other,6,43.83,Month-to-Month,,262.98,No,Yes
+9872ed9fc22fc182d371c3e9ed316094,52,Other,41,81.53,Month-to-Month,DSL,3342.73,Yes,Yes
+31fefc0e570cb3860f2a6d4b38c6490d,49,Other,57,54.93,One-Year,Fiber Optic,3131.01,Yes,No
+9dcb88e0137649590b755372b040afad,44,Other,3,112.92,One-Year,,338.76,No,Yes
+a2557a7b2e94197ff767970b67041697,36,Other,12,82.49,Month-to-Month,Fiber Optic,989.88,Yes,Yes
+cfecdb276f634854f3ef915e2e980c31,29,Other,79,83.36,One-Year,,6585.44,No,Yes
+0aa1883c6411f7873cb83dacb17b0afc,40,Other,13,61.94,Month-to-Month,DSL,805.22,No,Yes
+58a2fc6ed39fd083f55d4182bf88826d,53,Other,39,34.68,Month-to-Month,Fiber Optic,1352.52,Yes,Yes
+bd686fd640be98efaae0091fa301e613,47,Other,17,32.86,One-Year,Fiber Optic,558.62,Yes,No
+a597e50502f5ff68e3e25b9114205d4a,32,Other,9,68.1,One-Year,,612.9,No,Yes
+0336dcbab05b9d5ad24f4333c7658a0e,46,Other,6,37.61,Month-to-Month,DSL,225.66,Yes,Yes
+084b6fbb10729ed4da8c3d3f5a3ae7c9,48,Other,4,84.62,One-Year,,338.48,No,Yes
+85d8ce590ad8981ca2c8286f79f59954,36,Other,28,109.29,One-Year,Fiber Optic,3060.1200000000003,Yes,Yes
+0e65972dce68dad4d52d063967f0a705,46,Other,9,109.46,One-Year,DSL,985.14,Yes,Yes
+84d9ee44e457ddef7f2c4f25dc8fa865,45,Other,14,89.31,One-Year,Fiber Optic,1250.34,No,Yes
+3644a684f98ea8fe223c713b77189a77,33,Other,13,49.01,One-Year,Fiber Optic,637.13,Yes,No
+757b505cfd34c64c85ca5b5690ee5293,48,Other,17,107.67,Month-to-Month,Fiber Optic,1830.39,Yes,Yes
+854d6fae5ee42911677c739ee1734486,50,Other,40,109.75,Month-to-Month,,4390.0,No,Yes
+e2c0be24560d78c5e599c2a9c9d0bbd2,55,Other,78,47.7,Month-to-Month,Fiber Optic,3720.6,Yes,Yes
+274ad4786c3abca69fa097b85867d9a4,55,Other,10,96.37,Month-to-Month,Fiber Optic,963.7,No,Yes
+eae27d77ca20db309e056e3d2dcd7d69,31,Other,35,55.79,One-Year,Fiber Optic,1952.65,Yes,No
+7eabe3a1649ffa2b3ff8c02ebfd5659f,35,Other,28,102.24,One-Year,DSL,2862.72,Yes,Yes
+69adc1e107f7f7d035d7baf04342e1ca,50,Other,17,119.75,Month-to-Month,DSL,2035.75,Yes,Yes
+091d584fced301b442654dd8c23b3fc9,50,Other,62,32.7,Month-to-Month,Fiber Optic,2027.4,Yes,Yes
+b1d10e7bafa4421218a51b1e1f1b0ba2,50,Other,4,110.76,Month-to-Month,Fiber Optic,443.04,Yes,Yes
+6f3ef77ac0e3619e98159e9b6febf557,83,Other,2,86.04,Month-to-Month,DSL,172.08,No,Yes
+eb163727917cbba1eea208541a643e74,50,Other,38,117.6,One-Year,Fiber Optic,4468.8,No,Yes
+1534b76d325a8f591b52d302e7181331,56,Other,11,71.85,Month-to-Month,Fiber Optic,790.3499999999999,No,Yes
+979d472a84804b9f647bc185a877a8b5,54,Other,37,106.26,One-Year,DSL,3931.62,No,Yes
+ca46c1b9512a7a8315fa3c5a946e8265,51,Other,44,35.62,Two-Year,Fiber Optic,1567.28,Yes,No
+3b8a614226a953a8cd9526fca6fe9ba5,41,Other,1,60.18,Month-to-Month,DSL,60.18,Yes,Yes
+45fbc6d3e05ebd93369ce542e8f2322d,52,Other,42,36.03,Month-to-Month,,1513.26,No,Yes
+63dc7ed1010d3c3b8269faf0ba7491d4,37,Other,11,117.78,Month-to-Month,,1295.58,No,Yes
+e96ed478dab8595a7dbda4cbcbee168f,42,Other,14,103.53,One-Year,,1449.42,No,Yes
+c0e190d8267e36708f955d7ab048990d,40,Other,19,106.73,One-Year,DSL,2027.87,Yes,Yes
+ec8ce6abb3e952a85b8551ba726a1227,45,Other,52,114.42,Month-to-Month,,5949.84,No,Yes
+060ad92489947d410d897474079c1477,68,Other,0,37.66,One-Year,,0.0,No,Yes
+bcbe3365e6ac95ea2c0343a2395834dd,26,Other,12,64.7,Two-Year,,776.4000000000001,No,Yes
+115f89503138416a242f40fb7d7f338e,51,Other,23,36.39,Month-to-Month,DSL,836.97,No,Yes
+13fe9d84310e77f13a6d184dbf1232f3,28,Other,25,48.97,Month-to-Month,Fiber Optic,1224.25,Yes,Yes
+d1c38a09acc34845c6be3a127a5aacaf,40,Other,23,50.64,Two-Year,,1164.72,No,Yes
+9cfdf10e8fc047a44b08ed031e1f0ed1,55,Other,2,72.22,One-Year,Fiber Optic,144.44,Yes,Yes
+705f2172834666788607efbfca35afb3,45,Other,7,54.17,Two-Year,Fiber Optic,379.19,No,Yes
+74db120f0a8e5646ef5a30154e9f6deb,34,Other,8,39.09,One-Year,Fiber Optic,312.72,Yes,Yes
+57aeee35c98205091e18d1140e9f38cf,37,Other,32,45.07,Two-Year,Fiber Optic,1442.24,Yes,No
+6da9003b743b65f4c0ccd295cc484e57,51,Other,6,43.25,Month-to-Month,DSL,259.5,No,Yes
+9b04d152845ec0a378394003c96da594,37,Other,4,117.58,One-Year,Fiber Optic,470.32,Yes,Yes
+be83ab3ecd0db773eb2dc1b0a17836a1,47,Other,63,98.34,Two-Year,DSL,6195.42,No,Yes
+e165421110ba03099a1c0393373c5b43,45,Other,0,117.1,One-Year,Fiber Optic,0.0,Yes,Yes
+289dff07669d7a23de0ef88d2f7129e7,38,Other,122,69.58,Month-to-Month,DSL,8488.76,No,Yes
+577ef1154f3240ad5b9b413aa7346a1e,66,Other,22,55.05,Month-to-Month,Fiber Optic,1211.1,Yes,Yes
+01161aaa0b6d1345dd8fe4e481144d84,51,Other,35,101.85,Month-to-Month,DSL,3564.75,No,Yes
+539fd53b59e3bb12d203f45a912eeaf2,24,Other,6,59.36,Month-to-Month,Fiber Optic,356.15999999999997,No,Yes
+ac1dd209cbcc5e5d1c6e28598e8cbbe8,46,Other,0,56.94,Month-to-Month,,0.0,No,Yes
+555d6702c950ecb729a966504af0a635,38,Other,26,50.93,One-Year,DSL,1324.18,Yes,No
+335f5352088d7d9bf74191e006d8e24c,53,Other,35,41.67,One-Year,DSL,1458.45,Yes,No
+f340f1b1f65b6df5b5e3f94d95b11daf,37,Other,26,53.08,Month-to-Month,DSL,1380.08,Yes,Yes
+e4a6222cdb5b34375400904f03d8e6a5,43,Other,3,61.98,One-Year,,185.94,No,Yes
+cb70ab375662576bd1ac5aaf16b3fca4,50,Other,28,90.66,Month-to-Month,Fiber Optic,2538.48,Yes,Yes
+9188905e74c28e489b44e954ec0b9bca,53,Other,29,35.63,Month-to-Month,Fiber Optic,1033.27,Yes,Yes
+0266e33d3f546cb5436a10798e657d97,32,Other,21,48.95,Month-to-Month,DSL,1027.95,Yes,Yes
+38db3aed920cf82ab059bfccbd02be6a,41,Other,29,102.81,One-Year,Fiber Optic,2981.49,No,Yes
+3cec07e9ba5f5bb252d13f5f431e4bbb,40,Other,37,43.22,Month-to-Month,,1599.14,No,Yes
+621bf66ddb7c962aa0d22ac97d69b793,38,Other,19,60.84,Month-to-Month,,1155.96,No,Yes
+077e29b11be80ab57e1a2ecabb7da330,62,Other,1,107.82,Month-to-Month,Fiber Optic,107.82,Yes,Yes
+6c9882bbac1c7093bd25041881277658,49,Other,13,43.94,Two-Year,DSL,571.22,Yes,No
+19f3cd308f1455b3fa09a282e0d496f4,32,Other,1,37.45,Month-to-Month,DSL,37.45,Yes,Yes
+03c6b06952c750899bb03d998e631860,54,Other,10,73.61,One-Year,DSL,736.1,Yes,Yes
+c24cd76e1ce41366a4bbe8a49b02a028,66,Other,10,57.22,One-Year,DSL,572.2,Yes,Yes
+c52f1bd66cc19d05628bd8bf27af3ad6,55,Other,1,80.71,One-Year,DSL,80.71,Yes,Yes
+fe131d7f5a6b38b23cc967316c13dae2,29,Other,8,102.34,Two-Year,DSL,818.72,Yes,Yes
+f718499c1c8cef6730f9fd03c8125cab,40,Other,2,42.34,Month-to-Month,Fiber Optic,84.68,Yes,Yes
+d96409bf894217686ba124d7356686c9,57,Other,33,82.26,Month-to-Month,,2714.5800000000004,No,Yes
+502e4a16930e414107ee22b6198c578f,37,Other,59,75.5,Two-Year,Fiber Optic,4454.5,Yes,No
+cfa0860e83a4c3a763a7e62d825349f7,49,Other,1,42.97,Month-to-Month,,42.97,No,Yes
+a4f23670e1833f3fdb077ca70bbd5d66,52,Other,62,86.16,One-Year,,5341.92,No,Yes
+b1a59b315fc9a3002ce38bbe070ec3f5,35,Other,14,54.63,One-Year,DSL,764.82,Yes,No
+36660e59856b4de58a219bcf4e27eba3,44,Other,7,73.91,One-Year,,517.37,No,Yes
+8c19f571e251e61cb8dd3612f26d5ecf,12,Other,1,37.4,Two-Year,DSL,37.4,No,Yes
+d6baf65e0b240ce177cf70da146c8dc8,34,Other,13,71.36,Two-Year,Fiber Optic,927.68,No,Yes
+e56954b4f6347e897f954495eab16a88,42,Other,31,57.58,One-Year,Fiber Optic,1784.98,Yes,No
+f7664060cc52bc6f3d620bcedc94a4b6,32,Other,24,104.01,Month-to-Month,,2496.24,No,Yes
+eda80a3d5b344bc40f3bc04f65b7a357,61,Other,1,35.13,Two-Year,DSL,35.13,Yes,Yes
+8f121ce07d74717e0b1f21d122e04521,30,Other,1,67.67,Month-to-Month,DSL,67.67,Yes,Yes
+06138bc5af6023646ede0e1f7c1eac75,40,Other,10,71.26,Month-to-Month,,712.6,No,Yes
+39059724f73a9969845dfe4146c5660e,46,Other,6,95.25,Two-Year,DSL,571.5,Yes,Yes
+7f100b7b36092fb9b06dfb4fac360931,59,Other,5,81.69,Month-to-Month,Fiber Optic,408.45,Yes,Yes
+7a614fd06c325499f1680b9896beedeb,30,Other,6,90.05,Month-to-Month,,540.3,No,Yes
+4734ba6f3de83d861c3176a6273cac6d,56,Other,32,99.93,Month-to-Month,,3197.76,No,Yes
+d947bf06a885db0d477d707121934ff8,45,Other,52,107.6,Two-Year,,5595.2,No,Yes
+63923f49e5241343aa7acb6a06a751e7,35,Other,10,58.25,One-Year,,582.5,No,Yes
+db8e1af0cb3aca1ae2d0018624204529,49,Other,47,78.42,One-Year,DSL,3685.74,Yes,No
+20f07591c6fcb220ffe637cda29bb3f6,46,Other,7,105.61,Month-to-Month,,739.27,No,Yes
+07cdfd23373b17c6b337251c22b7ea57,38,Other,12,119.05,One-Year,Fiber Optic,1428.6,No,Yes
+d395771085aab05244a4fb8fd91bf4ee,45,Other,5,110.06,One-Year,Fiber Optic,550.3,Yes,Yes
+92c8c96e4c37100777c7190b76d28233,41,Other,20,63.43,Month-to-Month,DSL,1268.6,No,Yes
+e3796ae838835da0b6f6ea37bcf8bcb7,46,Other,77,47.56,Month-to-Month,Fiber Optic,3662.12,No,Yes
+6a9aeddfc689c1d0e3b9ccc3ab651bc5,51,Other,18,74.05,Month-to-Month,,1332.9,No,Yes
+0f49c89d1e7298bb9930789c8ed59d48,60,Other,8,96.75,Two-Year,,774.0,No,Yes
+46ba9f2a6976570b0353203ec4474217,32,Other,20,74.33,One-Year,Fiber Optic,1486.6,Yes,No
+0e01938fc48a2cfb5f2217fbfb00722d,66,Other,2,73.49,Two-Year,DSL,146.98,No,Yes
+16a5cdae362b8d27a1d8f8c7b78b4330,25,Other,43,105.44,Month-to-Month,Fiber Optic,4533.92,No,Yes
+918317b57931b6b7a7d29490fe5ec9f9,43,Other,13,62.53,One-Year,,812.89,No,Yes
+48aedb8880cab8c45637abc7493ecddd,50,Other,11,107.38,One-Year,,1181.1799999999998,No,Yes
+839ab46820b524afda05122893c2fe8e,47,Other,17,66.61,One-Year,Fiber Optic,1132.37,Yes,No
+f90f2aca5c640289d0a29417bcb63a37,38,Other,19,59.54,Two-Year,DSL,1131.26,Yes,No
+9c838d2e45b2ad1094d42f4ef36764f6,42,Other,1,70.86,Month-to-Month,Fiber Optic,70.86,Yes,Yes
+1700002963a49da13542e0726b7bb758,40,Other,22,98.62,Month-to-Month,Fiber Optic,2169.6400000000003,Yes,Yes
+53c3bce66e43be4f209556518c2fcb54,39,Other,5,41.34,One-Year,,206.7,No,Yes
+6883966fd8f918a4aa29be29d2c386fb,53,Other,25,47.68,One-Year,Fiber Optic,1192.0,No,Yes
+49182f81e6a13cf5eaa496d51fea6406,48,Other,34,115.63,One-Year,Fiber Optic,3931.42,Yes,Yes
+d296c101daa88a51f6ca8cfc1ac79b50,38,Other,32,45.79,Month-to-Month,Fiber Optic,1465.28,Yes,Yes
+9fd81843ad7f202f26c1a174c7357585,53,Other,16,81.1,One-Year,DSL,1297.6,Yes,No
+26e359e83860db1d11b6acca57d8ea88,48,Other,14,82.14,Month-to-Month,,1149.96,No,Yes
+ef0d3930a7b6c95bd2b32ed45989c61f,53,Other,3,74.07,Month-to-Month,Fiber Optic,222.21,No,Yes
+94f6d7e04a4d452035300f18b984988c,51,Other,29,88.03,One-Year,Fiber Optic,2552.87,Yes,No
+34ed066df378efacc9b924ec161e7639,36,Other,6,50.68,One-Year,Fiber Optic,304.08,Yes,Yes
+577bcc914f9e55d5e4e4f82f9f00e7d4,39,Other,13,79.74,Month-to-Month,Fiber Optic,1036.62,Yes,Yes
+11b9842e0a271ff252c1903e7132cd68,52,Other,6,63.5,Month-to-Month,Fiber Optic,381.0,No,Yes
+37bc2f75bf1bcfe8450a1a41c200364c,51,Other,2,89.55,Month-to-Month,,179.1,No,Yes
+496e05e1aea0a9c4655800e8a7b9ea28,44,Other,19,42.71,Month-to-Month,DSL,811.49,Yes,Yes
+b2eb7349035754953b57a32e2841bda5,46,Other,1,81.38,One-Year,Fiber Optic,81.38,Yes,Yes
+8e98d81f8217304975ccb23337bb5761,57,Other,27,46.67,Two-Year,DSL,1260.09,Yes,No
+a8c88a0055f636e4a163a5e3d16adab7,39,Other,7,55.08,Month-to-Month,Fiber Optic,385.56,No,Yes
+eddea82ad2755b24c4e168c5fc2ebd40,50,Other,0,49.68,One-Year,DSL,0.0,Yes,Yes
+06eb61b839a0cefee4967c67ccb099dc,42,Other,14,46.46,Two-Year,Fiber Optic,650.44,Yes,No
+9dfcd5e558dfa04aaf37f137a1d9d3e5,42,Other,0,104.31,Two-Year,,0.0,No,Yes
+950a4152c2b4aa3ad78bdd6b366cc179,55,Other,6,55.71,Month-to-Month,,334.26,No,Yes
+158f3069a435b314a80bdcb024f8e422,53,Other,24,113.44,Two-Year,Fiber Optic,2722.56,No,Yes
+758874998f5bd0c393da094e1967a72b,53,Other,1,117.29,Month-to-Month,Fiber Optic,117.29,Yes,Yes
+ad13a2a07ca4b7642959dc0c4c740ab6,58,Other,36,81.41,Month-to-Month,DSL,2930.76,No,Yes
+3fe94a002317b5f9259f82690aeea4cd,45,Other,0,42.87,Month-to-Month,Fiber Optic,0.0,No,Yes
+5b8add2a5d98b1a652ea7fd72d942dac,51,Other,5,63.71,Month-to-Month,,318.55,No,Yes
+432aca3a1e345e339f35a30c8f65edce,41,Other,27,101.8,Month-to-Month,DSL,2748.6,Yes,Yes
+8d3bba7425e7c98c50f52ca1b52d3735,48,Other,7,63.07,Month-to-Month,Fiber Optic,441.49,Yes,Yes
+320722549d1751cf3f247855f937b982,43,Other,2,37.83,Month-to-Month,,75.66,No,Yes
+caf1a3dfb505ffed0d024130f58c5cfa,45,Other,8,80.11,Two-Year,,640.88,No,Yes
+5737c6ec2e0716f3d8a7a5c4e0de0d9a,50,Other,6,106.06,Two-Year,DSL,636.36,Yes,Yes
+bc6dc48b743dc5d013b1abaebd2faed2,36,Other,36,101.63,Month-to-Month,Fiber Optic,3658.68,Yes,Yes
+f2fc990265c712c49d51a18a32b39f0c,65,Other,7,45.76,Two-Year,DSL,320.32,No,Yes
+89f0fd5c927d466d6ec9a21b9ac34ffa,34,Other,31,90.55,Two-Year,DSL,2807.0499999999997,Yes,No
+a666587afda6e89aec274a3657558a27,32,Other,44,49.85,One-Year,,2193.4,No,Yes
+b83aac23b9528732c23cc7352950e880,56,Other,11,49.64,Month-to-Month,,546.04,No,Yes
+cd00692c3bfe59267d5ecfac5310286c,52,Other,48,108.67,One-Year,,5216.16,No,Yes
+6faa8040da20ef399b63a72d0e4ab575,51,Other,9,52.47,Two-Year,DSL,472.23,No,Yes
+fe73f687e5bc5280214e0486b273a5f9,51,Other,66,53.69,One-Year,,3543.54,No,Yes
+6da37dd3139aa4d9aa55b8d237ec5d4a,44,Other,1,30.06,Month-to-Month,Fiber Optic,30.06,No,Yes
+c042f4db68f23406c6cecf84a7ebb0fe,36,Other,23,108.36,One-Year,Fiber Optic,2492.28,Yes,Yes
+310dcbbf4cce62f762a2aaa148d556bd,45,Other,13,101.33,One-Year,Fiber Optic,1317.29,Yes,Yes
+2f2b265625d76a6704b08093c652fd79,38,Other,9,86.46,One-Year,DSL,778.14,Yes,Yes
+f9b902fc3289af4dd08de5d1de54f68f,54,Other,20,97.52,Month-to-Month,,1950.4,No,Yes
+6855456e2fe46a9d49d3d3af4f57443d,43,Other,24,43.68,Month-to-Month,Fiber Optic,1048.32,Yes,Yes
+357a6fdf7642bf815a88822c447d9dc4,36,Other,0,71.25,Two-Year,DSL,0.0,Yes,Yes
+819f46e52c25763a55cc642422644317,41,Other,3,61.61,Two-Year,DSL,184.83,Yes,Yes
+04025959b191f8f9de3f924f0940515f,49,Other,24,38.44,Month-to-Month,DSL,922.56,Yes,Yes
+40008b9a5380fcacce3976bf7c08af5b,39,Other,21,73.75,Two-Year,DSL,1548.75,Yes,No
+3dd48ab31d016ffcbf3314df2b3cb9ce,36,Other,67,112.87,Month-to-Month,Fiber Optic,7562.29,No,Yes
+58238e9ae2dd305d79c2ebc8c1883422,47,Other,28,33.61,One-Year,,941.08,No,Yes
+3ad7c2ebb96fcba7cda0cf54a2e802f5,47,Other,60,56.23,One-Year,DSL,3373.7999999999997,Yes,No
+b3967a0e938dc2a6340e258630febd5a,39,Other,24,48.68,Two-Year,DSL,1168.32,Yes,No
+d81f9c1be2e08964bf9f24b15f0e4900,40,Other,7,51.43,Two-Year,Fiber Optic,360.01,No,Yes
+13f9896df61279c928f19721878fac41,47,Other,2,111.76,Month-to-Month,,223.52,No,Yes
+c5ff2543b53f4cc0ad3819a36752467b,30,Other,30,72.13,Two-Year,Fiber Optic,2163.8999999999996,Yes,No
+01386bd6d8e091c2ab4c7c7de644d37b,30,Other,20,71.97,Month-to-Month,Fiber Optic,1439.4,No,Yes
+0bb4aec1710521c12ee76289d9440817,37,Other,0,98.45,One-Year,Fiber Optic,0.0,Yes,Yes
+9de6d14fff9806d4bcd1ef555be766cd,42,Other,8,43.9,One-Year,DSL,351.2,Yes,Yes
+efe937780e95574250dabe07151bdc23,48,Other,62,73.85,One-Year,DSL,4578.7,No,Yes
+371bce7dc83817b7893bcdeed13799b5,59,Other,13,68.7,Month-to-Month,,893.1,No,Yes
+138bb0696595b338afbab333c555292a,53,Other,11,83.72,Two-Year,Fiber Optic,920.92,Yes,Yes
+8dd48d6a2e2cad213179a3992c0be53c,43,Other,12,119.96,Month-to-Month,Fiber Optic,1439.52,No,Yes
+82cec96096d4281b7c95cd7e74623496,44,Other,4,99.25,Month-to-Month,,397.0,No,Yes
+6c524f9d5d7027454a783c841250ba71,34,Other,9,65.81,One-Year,Fiber Optic,592.29,No,Yes
+fb7b9ffa5462084c5f4e7e85a093e6d7,44,Other,9,104.48,Month-to-Month,DSL,940.32,Yes,Yes
+aa942ab2bfa6ebda4840e7360ce6e7ef,42,Other,1,45.36,Two-Year,Fiber Optic,45.36,Yes,Yes
+c058f544c737782deacefa532d9add4c,48,Other,29,32.74,Month-to-Month,DSL,949.46,Yes,Yes
+e7b24b112a44fdd9ee93bdf998c6ca0e,36,Other,10,48.4,Month-to-Month,DSL,484.0,Yes,Yes
+52720e003547c70561bf5e03b95aa99f,50,Other,34,60.64,Two-Year,Fiber Optic,2061.76,Yes,No
+c3e878e27f52e2a57ace4d9a76fd9acf,60,Other,37,75.95,One-Year,,2810.15,No,Yes
+00411460f7c92d2124a67ea0f4cb5f85,43,Other,4,85.36,Month-to-Month,,341.44,No,Yes
+bac9162b47c56fc8a4d2a519803d51b3,49,Other,21,111.95,One-Year,Fiber Optic,2350.9500000000003,Yes,Yes
+9be40cee5b0eee1462c82c6964087ff9,51,Other,12,75.89,One-Year,DSL,910.68,Yes,No
+5ef698cd9fe650923ea331c15af3b160,40,Other,42,75.11,One-Year,DSL,3154.62,Yes,No
+05049e90fa4f5039a8cadc6acbb4b2cc,47,Other,4,34.52,Month-to-Month,,138.08,No,Yes
+cf004fdc76fa1a4f25f62e0eb5261ca3,45,Other,22,33.14,Two-Year,Fiber Optic,729.08,No,Yes
+0c74b7f78409a4022a2c4c5a5ca3ee19,45,Other,18,79.6,Two-Year,Fiber Optic,1432.8,No,Yes
+d709f38ef758b5066ef31b18039b8ce5,37,Other,6,69.44,One-Year,,416.64,No,Yes
+41f1f19176d383480afa65d325c06ed0,45,Other,2,105.53,Month-to-Month,,211.06,No,Yes
+24b16fede9a67c9251d3e7c7161c83ac,49,Other,21,44.46,Two-Year,,933.66,No,Yes
+ffd52f3c7e12435a724a8f30fddadd9c,59,Other,26,32.25,One-Year,DSL,838.5,Yes,No
+ad972f10e0800b49d76fed33a21f6698,54,Other,7,70.41,One-Year,,492.87,No,Yes
+f61d6947467ccd3aa5af24db320235dd,66,Other,20,51.37,Month-to-Month,,1027.4,No,Yes
+142949df56ea8ae0be8b5306971900a4,37,Other,10,34.47,Two-Year,DSL,344.7,No,Yes
+d34ab169b70c9dcd35e62896010cd9ff,53,Other,24,95.21,One-Year,Fiber Optic,2285.04,Yes,No
+8bf1211fd4b7b94528899de0a43b9fb3,46,Other,4,40.04,Month-to-Month,Fiber Optic,160.16,Yes,Yes
+a02ffd91ece5e7efeb46db8f10a74059,66,Other,44,84.75,Month-to-Month,,3729.0,No,Yes
+bca82e41ee7b0833588399b1fcd177c7,36,Other,6,55.29,Two-Year,DSL,331.74,No,Yes
+00ec53c4682d36f5c4359f4ae7bd7ba1,36,Other,9,45.61,Month-to-Month,Fiber Optic,410.49,Yes,Yes
+4f6ffe13a5d75b2d6a3923922b3922e5,39,Other,1,64.18,Two-Year,DSL,64.18,Yes,Yes
+beed13602b9b0e6ecb5b568ff5058f07,23,Other,2,102.13,One-Year,,204.26,No,Yes
+0584ce565c824b7b7f50282d9a19945b,39,Other,14,65.29,One-Year,DSL,914.06,Yes,No
+dc912a253d1e9ba40e2c597ed2376640,37,Other,6,97.57,Month-to-Month,DSL,585.42,Yes,Yes
+39461a19e9eddfb385ea76b26521ea48,46,Other,36,41.29,Month-to-Month,Fiber Optic,1486.44,Yes,Yes
+8efb100a295c0c690931222ff4467bb8,48,Other,0,99.55,Two-Year,,0.0,No,Yes
+d9fc5b73a8d78fad3d6dffe419384e70,63,Other,9,51.32,Month-to-Month,DSL,461.88,Yes,Yes
+c86a7ee3d8ef0b551ed58e354a836f2b,54,Other,8,90.97,One-Year,DSL,727.76,Yes,Yes
+a01a0380ca3c61428c26a231f0e49a09,39,Other,0,80.92,Month-to-Month,,0.0,No,Yes
+5a4b25aaed25c2ee1b74de72dc03c14e,36,Other,2,113.62,Month-to-Month,Fiber Optic,227.24,Yes,Yes
+f73b76ce8949fe29bf2a537cfa420e8f,49,Other,10,64.86,Month-to-Month,,648.6,No,Yes
+70c639df5e30bdee440e4cdf599fec2b,31,Other,13,35.95,One-Year,DSL,467.35,Yes,No
+28f0b864598a1291557bed248a998d4e,63,Other,10,31.72,Two-Year,Fiber Optic,317.2,Yes,Yes
+1543843a4723ed2ab08e18053ae6dc5b,56,Other,15,104.42,Month-to-Month,DSL,1566.3,No,Yes
+f8c1f23d6a8d8d7904fc0ea8e066b3bb,40,Other,18,77.23,Month-to-Month,DSL,1390.14,Yes,Yes
+e46de7e1bcaaced9a54f1e9d0d2f800d,27,Other,0,99.77,Month-to-Month,Fiber Optic,0.0,Yes,Yes
+b7b16ecf8ca53723593894116071700c,58,Other,12,51.1,One-Year,Fiber Optic,613.2,No,Yes
+352fe25daf686bdb4edca223c921acea,43,Other,66,61.06,Month-to-Month,,4029.96,No,Yes
+18d8042386b79e2c279fd162df0205c8,57,Other,14,32.71,Two-Year,Fiber Optic,457.94,No,Yes
+816b112c6105b3ebd537828a39af4818,29,Other,22,116.53,One-Year,Fiber Optic,2563.66,Yes,Yes
+69cb3ea317a32c4e6143e665fdb20b14,39,Other,7,90.11,One-Year,Fiber Optic,630.77,Yes,Yes
+bbf94b34eb32268ada57a3be5062fe7d,45,Other,29,113.99,Month-to-Month,,3305.71,No,Yes
+4f4adcbf8c6f66dcfc8a3282ac2bf10a,45,Other,29,53.89,Two-Year,DSL,1562.81,Yes,No
+bbcbff5c1f1ded46c25d28119a85c6c2,40,Other,14,85.03,Month-to-Month,DSL,1190.42,Yes,Yes
+8cb22bdd0b7ba1ab13d742e22eed8da2,51,Other,74,91.06,Month-to-Month,Fiber Optic,6738.4400000000005,No,Yes
+f4f6dce2f3a0f9dada0c2b5b66452017,34,Other,2,58.58,One-Year,Fiber Optic,117.16,Yes,Yes
+0d0fd7c6e093f7b804fa0150b875b868,43,Other,0,106.33,One-Year,DSL,0.0,Yes,Yes
+a96b65a721e561e1e3de768ac819ffbb,46,Other,29,115.24,Month-to-Month,,3341.96,No,Yes
+1068c6e4c8051cfd4e9ea8072e3189e2,50,Other,32,109.64,Month-to-Month,DSL,3508.48,No,Yes
+17d63b1625c816c22647a73e1482372b,52,Other,2,96.52,One-Year,,193.04,No,Yes
+b9228e0962a78b84f3d5d92f4faa000b,33,Other,6,54.97,Month-to-Month,DSL,329.82,Yes,Yes
+0deb1c54814305ca9ad266f53bc82511,29,Other,0,55.35,Two-Year,Fiber Optic,0.0,Yes,Yes
+66808e327dc79d135ba18e051673d906,57,Other,6,116.7,One-Year,,700.2,No,Yes
+42e7aaa88b48137a16a1acd04ed91125,48,Other,29,30.93,Month-to-Month,DSL,896.97,Yes,Yes
+8fe0093bb30d6f8c31474bd0764e6ac0,37,Other,14,94.44,Month-to-Month,,1322.16,No,Yes
+41ae36ecb9b3eee609d05b90c14222fb,60,Other,8,93.56,Month-to-Month,Fiber Optic,748.48,No,Yes
+d1f255a373a3cef72e03aa9d980c7eca,46,Other,9,86.04,One-Year,,774.36,No,Yes
+7eacb532570ff6858afd2723755ff790,56,Other,0,119.11,One-Year,Fiber Optic,0.0,No,Yes
+b6f0479ae87d244975439c6124592772,45,Other,7,58.07,Month-to-Month,Fiber Optic,406.49,Yes,Yes
+e0c641195b27425bb056ac56f8953d24,65,Other,20,60.6,One-Year,DSL,1212.0,Yes,No
+f85454e8279be180185cac7d243c5eb3,62,Other,73,37.1,Two-Year,Fiber Optic,2708.3,Yes,No
+faa9afea49ef2ff029a833cccc778fd0,42,Other,37,69.85,Month-to-Month,DSL,2584.45,Yes,Yes
+3c7781a36bcd6cf08c11a970fbe0e2a6,54,Other,0,53.49,Two-Year,DSL,0.0,Yes,Yes
+25b2822c2f5a3230abfadd476e8b04c9,51,Other,45,60.9,Month-to-Month,DSL,2740.5,No,Yes
+6ecbdd6ec859d284dc13885a37ce8d81,58,Other,30,105.11,Month-to-Month,Fiber Optic,3153.3,Yes,Yes
+18997733ec258a9fcaf239cc55d53363,35,Other,30,114.19,Month-to-Month,,3425.7,No,Yes
+8d7d8ee069cb0cbbf816bbb65d56947e,51,Other,12,46.72,Month-to-Month,DSL,560.64,Yes,Yes
+75fc093c0ee742f6dddaa13fff98f104,55,Other,10,63.53,Month-to-Month,DSL,635.3,Yes,Yes
+f74909ace68e51891440e4da0b65a70c,27,Other,7,113.58,Month-to-Month,Fiber Optic,795.06,Yes,Yes
+66368270ffd51418ec58bd793f2d9b1b,33,Other,1,35.56,Two-Year,DSL,35.56,Yes,Yes
+248e844336797ec98478f85e7626de4a,24,Other,5,38.31,Two-Year,DSL,191.55,Yes,Yes
+019d385eb67632a7e958e23f24bd07d7,42,Other,5,44.65,One-Year,DSL,223.25,No,Yes
+a49e9411d64ff53eccfdd09ad10a15b3,52,Other,13,83.57,Month-to-Month,,1086.41,No,Yes
+ddb30680a691d157187ee1cf9e896d03,60,Other,27,43.54,Month-to-Month,,1175.58,No,Yes
+2421fcb1263b9530df88f7f002e78ea5,45,Other,12,117.13,Month-to-Month,Fiber Optic,1405.56,Yes,Yes
+fccb60fb512d13df5083790d64c4d5dd,61,Other,1,70.2,One-Year,Fiber Optic,70.2,No,Yes
+1651cf0d2f737d7adeab84d339dbabd3,31,Other,63,75.14,Two-Year,Fiber Optic,4733.82,Yes,No
+eed5af6add95a9a6f1252739b1ad8c24,27,Other,57,52.2,Month-to-Month,Fiber Optic,2975.4,Yes,Yes
+a8abb4bb284b5b27aa7cb790dc20f80b,44,Other,30,72.39,Month-to-Month,Fiber Optic,2171.7,Yes,Yes
+15d4e891d784977cacbfcbb00c48f133,48,Other,94,89.57,One-Year,Fiber Optic,8419.58,No,Yes
+c203d8a151612acf12457e4d67635a95,44,Other,15,97.61,Month-to-Month,DSL,1464.15,Yes,Yes
+13f3cf8c531952d72e5847c4183e6910,24,Other,65,97.85,Month-to-Month,DSL,6360.25,Yes,Yes
+550a141f12de6341fba65b0ad0433500,44,Other,1,82.01,One-Year,Fiber Optic,82.01,No,Yes
+67f7fb873eaf29526a11a9b7ac33bfac,31,Other,9,111.39,One-Year,,1002.51,No,Yes
+1a5b1e4daae265b790965a275b53ae50,51,Other,5,103.57,Month-to-Month,Fiber Optic,517.8499999999999,Yes,Yes
+9a96876e2f8f3dc4f3cf45f02c61c0c1,48,Other,4,98.13,Month-to-Month,,392.52,No,Yes
+9b70e8fe62e40c570a322f1b0b659098,35,Other,3,35.0,Two-Year,,105.0,No,Yes
+d61e4bbd6393c9111e6526ea173a7c8b,39,Other,19,30.62,Month-to-Month,DSL,581.78,Yes,Yes
+f5f8590cd58a54e94377e6ae2eded4d9,34,Other,30,49.12,Month-to-Month,Fiber Optic,1473.6,No,Yes
+941e1aaaba585b952b62c14a3a175a61,44,Other,17,89.72,Month-to-Month,Fiber Optic,1525.24,Yes,Yes
+9431c87f273e507e6040fcb07dcb4509,54,Other,3,67.01,Month-to-Month,,201.03000000000003,No,Yes
+49ae49a23f67c759bf4fc791ba842aa2,35,Other,33,66.22,Month-to-Month,,2185.26,No,Yes
+e44fea3bec53bcea3b7513ccef5857ac,50,Other,20,109.61,Two-Year,Fiber Optic,2192.2,Yes,Yes
+821fa74b50ba3f7cba1e6c53e8fa6845,39,Other,9,110.6,Month-to-Month,DSL,995.4,Yes,Yes
+250cf8b51c773f3f8dc8b4be867a9a02,37,Other,22,111.83,Month-to-Month,,2460.26,No,Yes
+42998cf32d552343bc8e460416382dca,43,Other,6,58.25,One-Year,DSL,349.5,Yes,Yes
+d07e70efcfab08731a97e7b91be644de,34,Other,8,92.2,One-Year,,737.6,No,Yes
+7fe1f8abaad094e0b5cb1b01d712f708,39,Other,49,54.45,Two-Year,,2668.05,No,Yes
+98b297950041a42470269d56260243a1,33,Other,6,47.15,Two-Year,Fiber Optic,282.9,Yes,Yes
+0353ab4cbed5beae847a7ff6e220b5cf,64,Other,12,46.62,Month-to-Month,Fiber Optic,559.4399999999999,No,Yes
+51d92be1c60d1db1d2e5e7a07da55b26,45,Other,44,60.79,One-Year,Fiber Optic,2674.76,Yes,No
+428fca9bc1921c25c5121f9da7815cde,38,Other,24,68.7,Month-to-Month,Fiber Optic,1648.8000000000002,No,Yes
+f1b6f2857fb6d44dd73c7041e0aa0f19,47,Other,1,104.79,Two-Year,Fiber Optic,104.79,Yes,Yes
+68ce199ec2c5517597ce0a4d89620f55,43,Other,3,40.79,Month-to-Month,,122.37,No,Yes
+e836d813fd184325132fca8edcdfb40e,42,Other,0,96.14,Two-Year,,0.0,No,Yes
+ab817c9349cf9c4f6877e1894a1faa00,51,Other,19,77.83,One-Year,,1478.77,No,Yes
+877a9ba7a98f75b90a9d49f53f15a858,52,Other,11,55.92,Month-to-Month,DSL,615.12,Yes,Yes
+dc6a6489640ca02b0d42dabeb8e46bb7,39,Other,2,74.35,One-Year,,148.7,No,Yes
+26337353b7962f533d78c762373b3318,39,Other,63,56.99,Two-Year,,3590.3700000000003,No,Yes
+8e6b42f1644ecb1327dc03ab345e618b,42,Other,15,83.65,Two-Year,DSL,1254.75,No,Yes
+ef575e8837d065a1683c022d2077d342,21,Other,5,69.05,Month-to-Month,DSL,345.25,Yes,Yes
+2050e03ca119580f74cca14cc6e97462,29,Other,13,44.8,One-Year,DSL,582.4,No,Yes
+25ddc0f8c9d3e22e03d3076f98d83cb2,58,Other,22,40.49,Month-to-Month,,890.7800000000001,No,Yes
+5ef0b4eba35ab2d6180b0bca7e46b6f9,61,Other,1,79.2,Month-to-Month,Fiber Optic,79.2,Yes,Yes
+598b3e71ec378bd83e0a727608b5db01,42,Other,6,111.22,Month-to-Month,,667.3199999999999,No,Yes
+74071a673307ca7459bcf75fbd024e09,50,Other,32,60.96,Month-to-Month,DSL,1950.72,Yes,Yes
+cfee398643cbc3dc5eefc89334cacdc1,48,Other,12,95.97,Two-Year,,1151.64,No,Yes
+d18f655c3fce66ca401d5f38b48c89af,75,Other,15,89.28,Month-to-Month,DSL,1339.2,Yes,Yes
+6ea2ef7311b482724a9b7b0bc0dd85c6,56,Other,11,113.84,Two-Year,Fiber Optic,1252.24,Yes,Yes
+9461cce28ebe3e76fb4b931c35a169b0,43,Other,0,103.89,Month-to-Month,Fiber Optic,0.0,No,Yes
+f770b62bc8f42a0b66751fe636fc6eb0,35,Other,3,80.99,Month-to-Month,DSL,242.96999999999997,Yes,Yes
+e1e32e235eee1f970470a3a6658dfdd5,28,Other,11,89.13,Month-to-Month,,980.43,No,Yes
+eba0dc302bcd9a273f8bbb72be3a687b,47,Other,4,110.85,Month-to-Month,DSL,443.4,Yes,Yes
+218a0aefd1d1a4be65601cc6ddc1520e,37,Other,1,65.96,Month-to-Month,Fiber Optic,65.96,Yes,Yes
+7d04bbbe5494ae9d2f5a76aa1c00fa2f,30,Other,37,59.41,Month-to-Month,Fiber Optic,2198.17,Yes,Yes
+a516a87cfcaef229b342c437fe2b95f7,38,Other,79,30.97,One-Year,Fiber Optic,2446.63,Yes,No
+c3c59e5f8b3e9753913f4d435b53c308,34,Other,31,104.39,Month-to-Month,DSL,3236.09,Yes,Yes
+854d9fca60b4bd07f9bb215d59ef5561,61,Other,38,102.09,Month-to-Month,DSL,3879.42,No,Yes
+c410003ef13d451727aeff9082c29a5c,53,Other,5,39.4,Month-to-Month,,197.0,No,Yes
+559cb990c9dffd8675f6bc2186971dc2,44,Other,64,81.92,Two-Year,DSL,5242.88,No,Yes
+55a7cf9c71f1c9c495413f934dd1a158,59,Other,4,71.76,Two-Year,,287.04,No,Yes
+2f55707d4193dc27118a0f19a1985716,45,Other,60,40.68,Month-to-Month,,2440.8,No,Yes
+1be3bc32e6564055d5ca3e5a354acbef,36,Other,105,118.25,Month-to-Month,DSL,12416.25,Yes,Yes
+35051070e572e47d2c26c241ab88307f,60,Other,24,49.32,Month-to-Month,DSL,1183.68,No,Yes
+b534ba68236ba543ae44b22bd110a1d6,50,Other,79,36.05,Two-Year,Fiber Optic,2847.95,Yes,No
+7380ad8a673226ae47fce7bff88e9c33,34,Other,16,83.54,Month-to-Month,,1336.64,No,Yes
+05f971b5ec196b8c65b75d2ef8267331,43,Other,6,96.5,Month-to-Month,,579.0,No,Yes
+3cf166c6b73f030b4f67eeaeba301103,36,Other,11,32.92,Month-to-Month,Fiber Optic,362.12,Yes,Yes
+cee631121c2ec9232f3a2f028ad5c89b,31,Other,18,89.28,Month-to-Month,,1607.04,No,Yes
+5b69b9cb83065d403869739ae7f0995e,54,Other,1,77.91,Month-to-Month,DSL,77.91,No,Yes
+b5b41fac0361d157d9673ecb926af5ae,64,Other,19,39.29,One-Year,,746.51,No,Yes
+285e19f20beded7d215102b49d5c09a0,31,Other,79,45.53,Month-to-Month,,3596.87,No,Yes
+b337e84de8752b27eda3a12363109e80,50,Other,4,81.12,One-Year,DSL,324.48,Yes,Yes
+e8c0653fea13f91bf3c48159f7c24f78,38,Other,31,56.67,Month-to-Month,DSL,1756.77,Yes,Yes
+ff4d5fbbafdf976cfdc032e3bde78de5,40,Other,47,114.45,Month-to-Month,DSL,5379.150000000001,Yes,Yes
+2d6cc4b2d139a53512fb8cbb3086ae2e,39,Other,57,103.69,Two-Year,DSL,5910.33,Yes,Yes
+389bc7bb1e1c2a5e7e147703232a88f6,36,Other,64,118.52,Month-to-Month,,7585.28,No,Yes
+e2230b853516e7b05d79744fbd4c9c13,45,Other,14,53.37,Two-Year,Fiber Optic,747.18,Yes,No
+087408522c31eeb1f982bc0eaf81d35f,36,Other,75,117.28,One-Year,DSL,8796.0,No,Yes
+a760880003e7ddedfef56acb3b09697f,47,Other,28,68.81,Month-to-Month,Fiber Optic,1926.68,No,Yes
+10a7cdd970fe135cf4f7bb55c0e3b59f,44,Other,3,61.28,Two-Year,,183.84,No,Yes
+3dc4876f3f08201c7c76cb71fa1da439,42,Other,12,34.53,Month-to-Month,Fiber Optic,414.36,Yes,Yes
+59b90e1005a220e2ebc542eb9d950b1e,35,Other,25,34.75,Two-Year,Fiber Optic,868.75,Yes,No
+2b8a61594b1f4c4db0902a8a395ced93,39,Other,5,92.28,Month-to-Month,DSL,461.4,No,Yes
+f3f27a324736617f20abbf2ffd806f6d,52,Other,20,71.21,Two-Year,,1424.1999999999998,No,Yes
+38913e1d6a7b94cb0f55994f679f5956,50,Other,21,50.39,Month-to-Month,,1058.19,No,Yes
+ebd9629fc3ae5e9f6611e2ee05a31cef,35,Other,3,85.26,One-Year,DSL,255.78000000000003,No,Yes
+63538fe6ef330c13a05a3ed7e599d5f7,45,Other,16,52.76,One-Year,DSL,844.16,Yes,No
+cf67355a3333e6e143439161adc2d82e,52,Other,29,81.99,Two-Year,DSL,2377.71,Yes,No
+07563a3fe3bbe7e3ba84431ad9d055af,28,Other,13,62.33,Two-Year,DSL,810.29,Yes,No
+53fde96fcc4b4ce72d7739202324cd49,50,Other,0,104.12,Two-Year,Fiber Optic,0.0,No,Yes
+2bb232c0b13c774965ef8558f0fbd615,38,Other,0,103.86,Two-Year,,0.0,No,Yes
+ba2fd310dcaa8781a9a652a31baf3c68,50,Other,8,72.96,Month-to-Month,Fiber Optic,583.68,No,Yes
+69421f032498c97020180038fddb8e24,37,Other,52,61.57,Month-to-Month,,3201.64,No,Yes
+85422afb467e9456013a2a51d4dff702,26,Other,5,62.63,Month-to-Month,Fiber Optic,313.15000000000003,Yes,Yes
+13f320e7b5ead1024ac95c3b208610db,28,Other,20,102.51,Month-to-Month,,2050.2000000000003,No,Yes
+f4be00279ee2e0a53eafdaa94a151e2c,45,Other,5,59.54,Month-to-Month,,297.7,No,Yes
+37f0e884fbad9667e38940169d0a3c95,47,Other,7,48.82,One-Year,DSL,341.74,Yes,Yes
+d64a340bcb633f536d56e51874281454,35,Other,37,37.62,Month-to-Month,Fiber Optic,1391.9399999999998,No,Yes
+0fcbc61acd0479dc77e3cccc0f5ffca7,51,Other,26,72.0,One-Year,Fiber Optic,1872.0,Yes,No
+298f95e1bf9136124592c8d4825a06fc,28,Other,2,73.39,Month-to-Month,DSL,146.78,Yes,Yes
+df877f3865752637daa540ea9cbc474f,44,Other,11,105.68,Month-to-Month,Fiber Optic,1162.48,Yes,Yes
+c399862d3b9d6b76c8436e924a68c45b,32,Other,0,49.91,One-Year,Fiber Optic,0.0,Yes,Yes
+33e8075e9970de0cfea955afd4644bb2,38,Other,13,64.29,One-Year,,835.7700000000001,No,Yes
+65658fde58ab3c2b6e5132a39fae7cb9,45,Other,21,102.76,One-Year,Fiber Optic,2157.96,Yes,Yes
+5ea1649a31336092c05438df996a3e59,36,Other,2,104.13,One-Year,,208.26,No,Yes
+7bcdf75ad237b8e02e301f4091fb6bc8,41,Other,6,64.61,Month-to-Month,Fiber Optic,387.66,No,Yes
+5737034557ef5b8c02c0e46513b98f90,55,Other,10,71.32,One-Year,,713.1999999999999,No,Yes
+9b72e31dac81715466cd580a448cf823,39,Other,50,57.3,Month-to-Month,Fiber Optic,2865.0,Yes,Yes
+16c222aa19898e5058938167c8ab6c57,53,Other,99,113.93,Month-to-Month,,11279.070000000002,No,Yes
+7dcd340d84f762eba80aa538b0c527f7,33,Other,0,40.68,Month-to-Month,Fiber Optic,0.0,Yes,Yes
+81448138f5f163ccdba4acc69819f280,50,Other,28,114.04,Month-to-Month,Fiber Optic,3193.1200000000003,Yes,Yes
+97e8527feaf77a97fc38f34216141515,59,Other,9,91.55,Month-to-Month,Fiber Optic,823.9499999999999,No,Yes
+647bba344396e7c8170902bcf2e15551,20,Other,9,77.84,Two-Year,Fiber Optic,700.5600000000001,No,Yes
+ed265bc903a5a097f61d3ec064d96d2e,37,Other,28,32.94,Two-Year,DSL,922.32,Yes,No
+c75b6f114c23a4d7ea11331e7c00e73c,50,Other,50,72.8,Month-to-Month,DSL,3640.0,Yes,Yes
+8d34201a5b85900908db6cae92723617,42,Other,60,66.7,Month-to-Month,DSL,4002.0,Yes,Yes
+ccb1d45fb76f7c5a0bf619f979c6cf36,48,Other,17,44.51,Month-to-Month,,756.67,No,Yes
+01f78be6f7cad02658508fe4616098a9,38,Other,8,89.08,Month-to-Month,DSL,712.64,Yes,Yes
+7f24d240521d99071c93af3917215ef7,45,Other,30,117.4,Two-Year,DSL,3522.0,Yes,Yes
+94c7bb58efc3b337800875b5d382a072,43,Other,5,80.6,Month-to-Month,,403.0,No,Yes
+f387624df552cea2f369918c5e1e12bc,56,Other,16,94.33,One-Year,Fiber Optic,1509.28,Yes,No
+5e388103a391daabe3de1d76a6739ccd,47,Other,8,36.16,Month-to-Month,Fiber Optic,289.28,Yes,Yes
+15de21c670ae7c3f6f3f1f37029303c9,48,Other,21,67.59,Two-Year,DSL,1419.39,Yes,No
+11b921ef080f7736089c757404650e40,40,Other,5,40.47,Month-to-Month,,202.35,No,Yes
+6e2713a6efee97bacb63e52c54f0ada0,40,Other,4,85.15,One-Year,,340.6,No,Yes
+1bb91f73e9d31ea2830a5e73ce3ed328,40,Other,50,114.46,Month-to-Month,,5723.0,No,Yes
+3a0772443a0739141292a5429b952fe6,48,Other,2,89.56,One-Year,Fiber Optic,179.12,Yes,Yes
+a9a6653e48976138166de32772b1bf40,40,Other,14,36.91,Month-to-Month,,516.74,No,Yes
+58ae749f25eded36f486bc85feb3f0ab,47,Other,4,61.92,Month-to-Month,DSL,247.68,Yes,Yes
+4e4b5fbbbb602b6d35bea8460aa8f8e5,65,Other,0,79.56,Two-Year,DSL,0.0,Yes,Yes
+8eefcfdf5990e441f0fb6f3fad709e21,53,Other,0,66.29,Two-Year,DSL,0.0,No,Yes
+1728efbda81692282ba642aafd57be3a,41,Other,3,105.03,Two-Year,Fiber Optic,315.09000000000003,Yes,Yes
+cbcb58ac2e496207586df2854b17995f,57,Other,40,103.32,One-Year,Fiber Optic,4132.799999999999,Yes,Yes
+db85e2590b6109813dafa101ceb2faeb,40,Other,6,85.06,Two-Year,Fiber Optic,510.36,No,Yes
+99c5e07b4d5de9d18c350cdf64c5aa3d,24,Other,60,63.61,Month-to-Month,DSL,3816.6,No,Yes
+dd458505749b2941217ddd59394240e8,34,Other,17,52.98,Month-to-Month,Fiber Optic,900.66,Yes,Yes
+8b16ebc056e613024c057be590b542eb,26,Other,11,39.53,Month-to-Month,,434.83,No,Yes
+a86c450b76fb8c371afead6410d55534,41,Other,17,61.94,One-Year,Fiber Optic,1052.98,Yes,No
+c9892a989183de32e976c6f04e700201,45,Other,14,67.19,Month-to-Month,,940.66,No,Yes
+e6b4b2a746ed40e1af829d1fa82daa10,61,Other,28,90.82,Month-to-Month,DSL,2542.96,Yes,Yes
+e5f6ad6ce374177eef023bf5d0c018b6,48,Other,6,89.23,One-Year,,535.38,No,Yes
+f0e52b27a7a5d6a1a87373dffa53dbe5,42,Other,8,36.31,Two-Year,Fiber Optic,290.48,No,Yes
+ffeabd223de0d4eacb9a3e6e53e5448d,53,Other,44,65.57,Month-to-Month,DSL,2885.08,Yes,Yes
+a7aeed74714116f3b292a982238f83d2,22,Other,58,46.36,Month-to-Month,DSL,2688.88,Yes,Yes
+fde9264cf376fffe2ee4ddf4a988880d,47,Other,44,44.11,Month-to-Month,Fiber Optic,1940.84,Yes,Yes
+a8849b052492b5106526b2331e526138,52,Other,10,104.46,Month-to-Month,,1044.6,No,Yes
+258be18e31c8188555c2ff05b4d542c3,30,Other,30,33.77,Month-to-Month,Fiber Optic,1013.1,No,Yes
+069d3bb002acd8d7dd095917f9efe4cb,56,Other,12,67.73,One-Year,DSL,812.76,Yes,No
+c6e19e830859f2cb9f7c8f8cacb8d2a6,48,Other,13,45.14,One-Year,,586.82,No,Yes
+46922a0880a8f11f8f69cbb52b1396be,40,Other,4,109.14,One-Year,Fiber Optic,436.56,Yes,Yes
+9ad6aaed513b73148b7d49f70afcfb32,51,Other,17,80.13,Month-to-Month,Fiber Optic,1362.21,No,Yes
+f5deaeeae1538fb6c45901d524ee2f98,67,Other,4,50.82,Two-Year,Fiber Optic,203.28,Yes,Yes
+a9a1d5317a33ae8cef33961c34144f84,46,Other,8,75.22,Month-to-Month,DSL,601.76,No,Yes
+605ff764c617d3cd28dbbdd72be8f9a2,47,Other,38,95.83,Month-to-Month,Fiber Optic,3641.54,Yes,Yes
+766ebcd59621e305170616ba3d3dac32,40,Other,4,116.23,Two-Year,Fiber Optic,464.92,Yes,Yes
+daca41214b39c5dc66674d09081940f0,36,Other,1,49.84,Month-to-Month,,49.84,No,Yes
+30bb3825e8f631cc6075c0f87bb4978c,53,Other,1,109.76,Month-to-Month,Fiber Optic,109.76,No,Yes
+08b255a5d42b89b0585260b6f2360bdd,36,Other,56,114.09,Two-Year,Fiber Optic,6389.04,No,Yes
+3493894fa4ea036cfc6433c3e2ee63b0,45,Other,14,112.48,Month-to-Month,Fiber Optic,1574.72,Yes,Yes
+dbe272bab69f8e13f14b405e038deb64,40,Other,10,87.19,One-Year,,871.9,No,Yes
+acc3e0404646c57502b480dc052c4fe1,49,Other,33,86.68,Month-to-Month,,2860.44,No,Yes
+076a0c97d09cf1a0ec3e19c7f2529f2b,48,Other,36,66.29,One-Year,Fiber Optic,2386.44,Yes,No
+04ecb1fa28506ccb6f72b12c0245ddbc,55,Other,8,97.72,Month-to-Month,,781.76,No,Yes
+b2eeb7362ef83deff5c7813a67e14f0a,39,Other,23,77.82,Month-to-Month,Fiber Optic,1789.86,No,Yes
+08c5433a60135c32e34f46a71175850c,42,Other,29,90.97,One-Year,Fiber Optic,2638.13,No,Yes
+6aca97005c68f1206823815f66102863,35,Other,21,68.56,Month-to-Month,DSL,1439.76,Yes,Yes
+3435c378bb76d4357324dd7e69f3cd18,40,Other,3,95.83,Month-to-Month,Fiber Optic,287.49,Yes,Yes
+d490d7b4576290fa60eb31b5fc917ad1,48,Other,41,104.2,Month-to-Month,DSL,4272.2,No,Yes
+b2f627fff19fda463cb386442eac2b3d,52,Other,15,43.18,Month-to-Month,,647.7,No,Yes
+c3992e9a68c5ae12bd18488bc579b30d,35,Other,6,104.96,Month-to-Month,Fiber Optic,629.76,Yes,Yes
+d86ea612dec96096c5e0fcc8dd42ab6d,53,Other,11,78.63,Month-to-Month,,864.93,No,Yes
+9cf81d8026a9018052c429cc4e56739b,58,Other,0,106.02,Two-Year,Fiber Optic,0.0,Yes,Yes
+c361bc7b2c033a83d663b8d9fb4be56e,49,Other,2,68.82,Month-to-Month,Fiber Optic,137.64,Yes,Yes
+44c4c17332cace2124a1a836d9fc4b6f,63,Other,29,64.11,Month-to-Month,Fiber Optic,1859.19,Yes,Yes
+dc82d632c9fcecb0778afbc7924494a6,37,Other,0,112.36,Month-to-Month,DSL,0.0,Yes,Yes
+996a7fa078cc36c46d02f9af3bef918b,32,Other,10,52.61,Month-to-Month,Fiber Optic,526.1,Yes,Yes
+d7a728a67d909e714c0774e22cb806f2,27,Other,14,105.98,Two-Year,DSL,1483.72,Yes,Yes
+00ac8ed3b4327bdd4ebbebcb2ba10a00,59,Other,1,73.56,Month-to-Month,Fiber Optic,73.56,Yes,Yes
+8ebda540cbcc4d7336496819a46a1b68,51,Other,72,76.27,Two-Year,Fiber Optic,5491.44,Yes,No
+f76a89f0cb91bc419542ce9fa43902dc,44,Other,5,57.76,Month-to-Month,,288.8,No,Yes
+f29c21d4897f78948b91f03172341b7b,47,Other,7,81.57,One-Year,DSL,570.99,No,Yes
+851ddf5058cf22df63d3344ad89919cf,33,Other,7,59.27,One-Year,DSL,414.89,Yes,Yes
+58d4d1e7b1e97b258c9ed0b37e02d087,69,Other,5,33.53,Two-Year,Fiber Optic,167.65,Yes,Yes
+7750ca3559e5b8e1f44210283368fc16,46,Other,0,54.48,One-Year,,0.0,No,Yes
+5d44ee6f2c3f71b73125876103c8f6c4,46,Other,26,30.57,One-Year,,794.82,No,Yes
+eb6fdc36b281b7d5eabf33396c2683a2,52,Other,68,118.05,Month-to-Month,Fiber Optic,8027.4,Yes,Yes
+cdc0d6e63aa8e41c89689f54970bb35f,49,Other,5,116.92,Month-to-Month,Fiber Optic,584.6,Yes,Yes
+b73dfe25b4b8714c029b37a6ad3006fa,47,Other,21,65.56,Two-Year,DSL,1376.76,Yes,No
+85fc37b18c57097425b52fc7afbb6969,37,Other,27,95.55,Month-to-Month,,2579.85,No,Yes
+3871bd64012152bfb53fdf04b401193f,49,Other,37,61.12,Month-to-Month,Fiber Optic,2261.44,No,Yes
+a733fa9b25f33689e2adbe72199f0e62,63,Other,10,90.4,One-Year,DSL,904.0,Yes,Yes
+48ab2f9b45957ab574cf005eb8a76760,58,Other,7,102.49,Month-to-Month,Fiber Optic,717.43,Yes,Yes
+233509073ed3432027d48b1a83f5fbd2,60,Other,7,115.21,Two-Year,DSL,806.4699999999999,No,Yes
+45645a27c4f1adc8a7a835976064a86d,39,Other,24,66.02,One-Year,,1584.48,No,Yes
+185c29dc24325934ee377cfda20e414c,35,Other,33,100.5,One-Year,DSL,3316.5,Yes,Yes
+42e77b63637ab381e8be5f8318cc28a2,43,Other,4,53.93,Two-Year,Fiber Optic,215.72,Yes,Yes
+051e4e127b92f5d98d3c79b195f2b291,45,Other,9,119.13,Month-to-Month,DSL,1072.17,Yes,Yes
+9cc138f8dc04cbf16240daa92d8d50e2,55,Other,46,32.32,Month-to-Month,,1486.72,No,Yes
+b7bb35b9c6ca2aee2df08cf09d7016c2,28,Other,32,84.32,Month-to-Month,,2698.24,No,Yes
+abd815286ba1007abfbb8415b83ae2cf,60,Other,83,89.36,Month-to-Month,Fiber Optic,7416.88,Yes,Yes
+26dd0dbc6e3f4c8043749885523d6a25,43,Other,28,91.92,One-Year,Fiber Optic,2573.76,Yes,No
+6766aa2750c19aad2fa1b32f36ed4aee,40,Other,9,40.83,Two-Year,,367.47,No,Yes
+6a10bbd480e4c5573d8f3af73ae0454b,34,Other,17,114.47,Month-to-Month,DSL,1945.99,Yes,Yes
+c5ab0bc60ac7929182aadd08703f1ec6,28,Other,21,46.31,Month-to-Month,Fiber Optic,972.51,Yes,Yes
+a532400ed62e772b9dc0b86f46e583ff,53,Other,1,86.05,Two-Year,DSL,86.05,Yes,Yes
+4c27cea8526af8cfee3be5e183ac9605,45,Other,15,50.04,Month-to-Month,,750.6,No,Yes
+0f96613235062963ccde717b18f97592,32,Other,24,57.65,Month-to-Month,Fiber Optic,1383.6,No,Yes
+4ffce04d92a4d6cb21c1494cdfcd6dc1,32,Other,3,79.18,Month-to-Month,,237.54,No,Yes
+67e103b0761e60683e83c559be18d40c,41,Other,30,67.55,Two-Year,Fiber Optic,2026.5,Yes,No
+291597a100aadd814d197af4f4bab3a7,61,Other,17,44.42,One-Year,DSL,755.14,No,Yes
+9b698eb3105bd82528f23d0c92dedfc0,42,Other,60,45.38,One-Year,DSL,2722.8,Yes,No
+8c7bbbba95c1025975e548cee86dfadc,29,Other,0,67.63,Two-Year,DSL,0.0,Yes,Yes
+5e9f92a01c986bafcabbafd145520b13,42,Other,6,98.16,Month-to-Month,Fiber Optic,588.96,No,Yes
+0ff39bbbf981ac0151d340c9aa40e63e,42,Other,18,110.82,Month-to-Month,DSL,1994.76,No,Yes
+303ed4c69846ab36c2904d3ba8573050,18,Other,7,37.57,Two-Year,DSL,262.99,Yes,Yes
+443cb001c138b2561a0d90720d6ce111,44,Other,25,65.38,Month-to-Month,,1634.5,No,Yes
+55b37c5c270e5d84c793e486d798c01d,42,Other,28,39.02,One-Year,,1092.5600000000002,No,Yes
+884d247c6f65a96a7da4d1105d584ddd,51,Other,2,31.49,Two-Year,Fiber Optic,62.98,No,Yes
+55743cc0393b1cb4b8b37d09ae48d097,63,Other,14,89.55,One-Year,Fiber Optic,1253.7,Yes,No
+30ef30b64204a3088a26bc2e6ecf7602,56,Other,14,84.22,One-Year,DSL,1179.08,Yes,No
+eaae339c4d89fc102edd9dbdb6a28915,42,Other,9,44.67,Two-Year,Fiber Optic,402.03,No,Yes
+ab233b682ec355648e7891e66c54191b,33,Other,54,51.04,Two-Year,,2756.16,No,Yes
+3d2d8ccb37df977cb6d9da15b76c3f3a,70,Other,35,32.13,Month-to-Month,DSL,1124.5500000000002,No,Yes
+26408ffa703a72e8ac0117e74ad46f33,45,Other,23,105.15,Month-to-Month,DSL,2418.4500000000003,Yes,Yes
+b4288d9c0ec0a1841b3b3728321e7088,45,Other,25,117.72,Month-to-Month,,2943.0,No,Yes
+2f37d10131f2a483a8dd005b3d14b0d9,44,Other,12,42.19,One-Year,Fiber Optic,506.28,Yes,No
+0ff8033cf9437c213ee13937b1c4c455,46,Other,50,50.83,Month-to-Month,DSL,2541.5,No,Yes
+68264bdb65b97eeae6788aa3348e553c,43,Other,23,108.16,One-Year,Fiber Optic,2487.68,Yes,Yes
+3a066bda8c96b9478bb0512f0a43028c,39,Other,26,113.38,Month-to-Month,Fiber Optic,2947.88,Yes,Yes
+be3159ad04564bfb90db9e32851ebf9c,39,Other,39,67.77,One-Year,Fiber Optic,2643.0299999999997,Yes,No
+8757150decbd89b0f5442ca3db4d0e0e,44,Other,6,34.56,Month-to-Month,,207.36,No,Yes
+2291d2ec3b3048d1a6f86c2c4591b7e0,39,Other,32,33.55,One-Year,,1073.6,No,Yes
+84117275be999ff55a987b9381e01f96,37,Other,4,81.66,One-Year,Fiber Optic,326.64,Yes,Yes
+fae0b27c451c728867a567e8c1bb4e53,46,Other,8,65.36,Month-to-Month,,522.88,No,Yes
+b5dc4e5d9b495d0196f61d45b26ef33e,42,Other,8,32.58,Month-to-Month,Fiber Optic,260.64,No,Yes
+192fc044e74dffea144f9ac5dc9f3395,60,Other,76,82.49,One-Year,,6269.24,No,Yes
+5c04925674920eb58467fb52ce4ef728,18,Other,38,31.02,Month-to-Month,Fiber Optic,1178.76,Yes,Yes
+17c276c8e723eb46aef576537e9d56d0,55,Other,24,100.86,Month-to-Month,,2420.64,No,Yes
+5dd9db5e033da9c6fb5ba83c7a7ebea9,57,Other,25,57.58,Two-Year,,1439.5,No,Yes
+2dea61eed4bceec564a00115c4d21334,24,Other,16,33.62,One-Year,DSL,537.92,Yes,No
+9f396fe44e7c05c16873b05ec425cbad,41,Other,58,82.95,Two-Year,,4811.1,No,Yes
+0d7de1aca9299fe63f3e0041f02638a3,41,Other,13,65.79,Month-to-Month,,855.2700000000001,No,Yes
+8fecb20817b3847419bb3de39a609afe,30,Other,9,117.64,Month-to-Month,,1058.76,No,Yes
+dc6a70712a252123c40d2adba6a11d84,37,Other,3,78.98,Two-Year,DSL,236.94,Yes,Yes
+71a3cb155f8dc89bf3d0365288219936,33,Other,30,54.77,One-Year,,1643.1,No,Yes
+9fe8593a8a330607d76796b35c64c600,62,Other,26,93.85,One-Year,,2440.1,No,Yes
+ca9c267dad0305d1a6308d2a0cf1c39c,54,Other,9,54.43,Month-to-Month,DSL,489.87,Yes,Yes
+fccb3cdc9acc14a6e70a12f74560c026,57,Other,0,111.38,Month-to-Month,,0.0,No,Yes
+1595af6435015c77a7149e92a551338e,52,Other,36,63.72,Month-to-Month,DSL,2293.92,No,Yes
+08d98638c6fcd194a4b1e6992063e944,33,Other,0,79.49,Month-to-Month,DSL,0.0,No,Yes
+24681928425f5a9133504de568f5f6df,39,Other,24,34.55,Month-to-Month,Fiber Optic,829.1999999999999,No,Yes
+556f391937dfd4398cbac35e050a2177,49,Other,70,68.35,Month-to-Month,Fiber Optic,4784.5,Yes,Yes
+3328bdf9a4b9504b9398284244fe97c2,32,Other,11,104.91,Two-Year,Fiber Optic,1154.01,Yes,Yes
+109a0ca3bc27f3e96597370d5c8cf03d,52,Other,5,102.51,Month-to-Month,DSL,512.5500000000001,Yes,Yes
+7f5d04d189dfb634e6a85bb9d9adf21e,42,Other,24,50.19,One-Year,,1204.56,No,Yes
+f79921bbae40a577928b76d2fc3edc2a,41,Other,33,50.35,Two-Year,DSL,1661.55,No,Yes
+07a96b1f61097ccb54be14d6a47439b0,52,Other,15,103.56,One-Year,DSL,1553.4,No,Yes
+c06d06da9666a219db15cf575aff2824,49,Other,68,113.74,Month-to-Month,DSL,7734.32,Yes,Yes
+10a5ab2db37feedfdeaab192ead4ac0e,41,Other,1,38.58,One-Year,Fiber Optic,38.58,Yes,Yes
+e555ebe0ce426f7f9b2bef0706315e0c,56,Other,14,70.51,One-Year,,987.14,No,Yes
+53e3a7161e428b65688f14b84d61c610,34,Other,25,60.37,One-Year,Fiber Optic,1509.25,Yes,No
+5487315b1286f907165907aa8fc96619,51,Other,39,108.36,One-Year,,4226.04,No,Yes
+e4bb4c5173c2ce17fd8fcd40041c068f,50,Other,3,37.52,Two-Year,DSL,112.56,No,Yes
+0cb929eae7a499e50248a3a78f7acfc7,41,Other,32,49.0,One-Year,Fiber Optic,1568.0,Yes,No
+8a0e1141fd37fa5b98d5bb769ba1a7cc,48,Other,16,97.72,Month-to-Month,Fiber Optic,1563.52,Yes,Yes
+99bcfcd754a98ce89cb86f73acc04645,32,Other,10,34.62,One-Year,Fiber Optic,346.2,Yes,Yes
+afd4836712c5e77550897e25711e1d96,54,Other,2,74.33,Month-to-Month,DSL,148.66,No,Yes
+e5841df2166dd424a57127423d276bbe,43,Other,40,69.79,Two-Year,Fiber Optic,2791.6000000000004,Yes,No
+b4a528955b84f584974e92d025a75d1f,39,Other,3,60.1,Month-to-Month,Fiber Optic,180.3,Yes,Yes
+b1eec33c726a60554bc78518d5f9b32c,55,Other,7,65.51,Month-to-Month,,458.5700000000001,No,Yes
+d6c651ddcd97183b2e40bc464231c962,37,Other,6,77.69,Two-Year,Fiber Optic,466.14,Yes,Yes
+f64eac11f2cd8f0efa196f8ad173178e,30,Other,41,44.52,One-Year,DSL,1825.32,Yes,No
+4a47d2983c8bd392b120b627e0e1cab4,29,Other,22,81.48,Month-to-Month,Fiber Optic,1792.5600000000002,Yes,Yes
+9c82c7143c102b71c593d98d96093fde,51,Other,31,102.49,Month-to-Month,DSL,3177.19,Yes,Yes
+500e75a036dc2d7d2fec5da1b71d36cc,32,Other,5,98.41,Two-Year,,492.0499999999999,No,Yes
+ae0eb3eed39d2bcef4622b2499a05fe6,62,Other,19,43.85,Month-to-Month,Fiber Optic,833.15,No,Yes
+1ecfb463472ec9115b10c292ef8bc986,24,Other,16,43.43,Two-Year,DSL,694.88,Yes,No
+e70611883d2760c8bbafb4acb29e3446,61,Other,35,54.14,Month-to-Month,,1894.9,No,Yes
+6081594975a764c8e3a691fa2b3a321d,47,Other,47,62.5,One-Year,Fiber Optic,2937.5,Yes,No
+19bc916108fc6938f52cb96f7e087941,44,Other,0,66.76,Two-Year,DSL,0.0,Yes,Yes
+07c5807d0d927dcd0980f86024e5208b,39,Other,22,91.17,Month-to-Month,Fiber Optic,2005.74,Yes,Yes
+d14220ee66aeec73c49038385428ec4c,48,Other,1,35.1,Month-to-Month,DSL,35.1,Yes,Yes
+8df707a948fac1b4a0f97aa554886ec8,44,Other,15,33.12,Month-to-Month,,496.7999999999999,No,Yes
+e7f8a7fb0b77bcb3b283af5be021448f,56,Other,6,65.27,One-Year,,391.62,No,Yes
+788d986905533aba051261497ecffcbb,46,Other,7,92.74,One-Year,,649.18,No,Yes
+50c3d7614917b24303ee6a220679dab3,46,Other,8,47.41,One-Year,Fiber Optic,379.28,Yes,Yes
+2afe4567e1bf64d32a5527244d104cea,41,Other,19,87.74,Month-to-Month,Fiber Optic,1667.06,Yes,Yes
+5f2c22cb4a5380af7ca75622a6426917,44,Other,8,53.38,Month-to-Month,,427.04,No,Yes
+aba3b6fd5d186d28e06ff97135cade7f,48,Other,26,109.75,Month-to-Month,DSL,2853.5,Yes,Yes
+c8ed21db4f678f3b13b9d5ee16489088,27,Other,10,110.61,Month-to-Month,Fiber Optic,1106.1,Yes,Yes
+08419be897405321542838d77f855226,31,Other,1,56.76,One-Year,Fiber Optic,56.76,Yes,Yes
+7f1171a78ce0780a2142a6eb7bc4f3c8,52,Other,30,50.7,Two-Year,DSL,1521.0,No,Yes
+82f2b308c3b01637c607ce05f52a2fed,46,Other,6,67.02,One-Year,Fiber Optic,402.12,Yes,Yes
+0d3180d672e08b4c5312dcdafdf6ef36,43,Other,11,51.65,Month-to-Month,,568.15,No,Yes
+fb89705ae6d743bf1e848c206e16a1d7,45,Other,23,90.51,Two-Year,,2081.73,No,Yes
+d4c2e4a3297fe25a71d030b67eb83bfc,48,Other,8,104.35,One-Year,DSL,834.8,No,Yes
+5751ec3e9a4feab575962e78e006250d,39,Other,1,90.58,Two-Year,DSL,90.58,Yes,Yes
+d5cfead94f5350c12c322b5b664544c1,37,Other,9,104.19,One-Year,DSL,937.71,Yes,Yes
+59c33016884a62116be975a9bb8257e3,46,Other,57,65.73,Month-to-Month,,3746.61,No,Yes
+ba3866600c3540f67c1e9575e213be0a,35,Other,20,44.07,Month-to-Month,DSL,881.4,No,Yes
+6c29793a140a811d0c45ce03c1c93a28,49,Other,22,96.42,One-Year,,2121.24,No,Yes
+e995f98d56967d946471af29d7bf99f1,27,Other,20,62.44,Month-to-Month,DSL,1248.8,Yes,Yes
+6cd67d9b6f0150c77bda2eda01ae484c,55,Other,4,90.41,Month-to-Month,Fiber Optic,361.64,Yes,Yes
+6bc24fc1ab650b25b4114e93a98f1eba,49,Other,10,54.36,One-Year,Fiber Optic,543.6,Yes,Yes
+a5cdd4aa0048b187f7182f1b9ce7a6a7,47,Other,27,37.31,One-Year,,1007.37,No,Yes
+217eedd1ba8c592db97d0dbe54c7adfc,54,Other,2,119.33,One-Year,DSL,238.66,Yes,Yes
+df263d996281d984952c07998dc54358,61,Other,6,44.06,Month-to-Month,Fiber Optic,264.36,Yes,Yes
+edfbe1afcf9246bb0d40eb4d8027d90f,55,Other,6,118.96,Month-to-Month,DSL,713.76,No,Yes
+2e65f2f2fdaf6c699b223c61b1b5ab89,26,Other,11,117.96,One-Year,,1297.56,No,Yes
+e94550c93cd70fe748e6982b3439ad3b,32,Other,78,101.44,Two-Year,,7912.32,No,Yes
+5c572eca050594c7bc3c36e7e8ab9550,38,Other,1,89.35,One-Year,DSL,89.35,Yes,Yes
+0537fb40a68c18da59a35c2bfe1ca554,45,Other,14,82.0,Two-Year,,1148.0,No,Yes
+5f0f5e5f33945135b874349cfbed4fb9,50,Other,3,107.95,One-Year,Fiber Optic,323.85,No,Yes
+185e65bc40581880c4f2c82958de8cfe,37,Other,70,56.05,One-Year,DSL,3923.5,Yes,No
+8d317bdcf4aafcfc22149d77babee96d,46,Other,2,72.09,Month-to-Month,Fiber Optic,144.18,Yes,Yes
+e49b8b4053df9505e1f48c3a701c0682,37,Other,10,85.75,One-Year,DSL,857.5,Yes,Yes
+b056eb1587586b71e2da9acfe4fbd19e,38,Other,26,67.01,One-Year,,1742.2600000000002,No,Yes
+b137fdd1f79d56c7edf3365fea7520f2,30,Other,24,68.47,One-Year,,1643.28,No,Yes
+912d2b1c7b2826caf99687388d2e8f7c,35,Other,10,59.73,Month-to-Month,DSL,597.3,No,Yes
+a1d33d0dfec820b41b54430b50e96b5c,31,Other,8,80.78,One-Year,Fiber Optic,646.24,Yes,Yes
+6f2268bd1d3d3ebaabb04d6b5d099425,35,Other,10,106.55,Month-to-Month,,1065.5,No,Yes
+872488f88d1b2db54d55bc8bba2fad1b,55,Other,6,48.14,One-Year,,288.84000000000003,No,Yes
+ccb0989662211f61edae2e26d58ea92f,35,Other,4,114.1,Month-to-Month,Fiber Optic,456.4,No,Yes
+2823f4797102ce1a1aec05359cc16dd9,71,Other,13,92.02,Two-Year,,1196.26,No,Yes
+470e7a4f017a5476afb7eeb3f8b96f9b,49,Other,6,104.09,Month-to-Month,Fiber Optic,624.54,No,Yes
+bf62768ca46b6c3b5bea9515d1a1fc45,46,Other,6,80.06,Month-to-Month,Fiber Optic,480.36,Yes,Yes
+fa14d4fe2f19414de3ebd9f63d5c0169,36,Other,21,100.16,Month-to-Month,,2103.36,No,Yes
+2ca65f58e35d9ad45bf7f3ae5cfd08f1,52,Other,69,31.46,One-Year,Fiber Optic,2170.74,Yes,No
+88ae6372cfdc5df69a976e893f4d554b,39,Other,18,103.65,Month-to-Month,Fiber Optic,1865.7,No,Yes
+06997f04a7db92466a2baa6ebc8b872d,46,Other,1,33.61,Month-to-Month,Fiber Optic,33.61,Yes,Yes
+eefc9e10ebdc4a2333b42b2dbb8f27b6,70,Other,1,110.09,One-Year,,110.09,No,Yes
+5807a685d1a9ab3b599035bc566ce2b9,44,Other,60,119.28,Month-to-Month,,7156.8,No,Yes
+d840cc5d906c3e9c84374c8919d2074e,56,Other,7,56.47,Two-Year,Fiber Optic,395.29,No,Yes
+959a557f5f6beb411fd954f3f34b21c3,37,Other,1,48.93,Two-Year,Fiber Optic,48.93,Yes,Yes
+f2201f5191c4e92cc5af043eebfd0946,44,Other,18,98.88,One-Year,Fiber Optic,1779.84,Yes,No
+3a835d3215755c435ef4fe9965a3f2a0,62,Other,19,52.77,Month-to-Month,Fiber Optic,1002.63,No,Yes
+288cc0ff022877bd3df94bc9360b9c5d,38,Other,20,107.9,One-Year,DSL,2158.0,Yes,Yes
+4ea06fbc83cdd0a06020c35d50e1e89a,63,Other,6,39.26,Month-to-Month,,235.56,No,Yes
+b7ee6f5f9aa5cd17ca1aea43ce848496,52,Other,0,41.34,Month-to-Month,Fiber Optic,0.0,Yes,Yes
+e57c6b956a6521b28495f2886ca0977a,39,Other,67,118.12,Month-to-Month,Fiber Optic,7914.04,Yes,Yes
+86b122d4358357d834a87ce618a55de0,51,Other,5,90.65,Two-Year,DSL,453.25,Yes,Yes
+4e0928de075538c593fbdabb0c5ef2c3,54,Other,22,106.22,Month-to-Month,DSL,2336.84,Yes,Yes
+c0f168ce8900fa56e57789e2a2f2c9d0,51,Other,24,59.19,One-Year,,1420.56,No,Yes
+8c6744c9d42ec2cb9e8885b54ff744d0,29,Other,18,90.88,One-Year,Fiber Optic,1635.84,Yes,No
+f1c1592588411002af340cbaedd6fc33,37,Other,7,83.48,Month-to-Month,DSL,584.36,Yes,Yes
+e07413354875be01a996dc560274708e,42,Other,6,84.28,Month-to-Month,Fiber Optic,505.68,Yes,Yes
+67d96d458abdef21792e6d8e590244e7,44,Other,18,91.43,Two-Year,Fiber Optic,1645.7400000000002,Yes,No
+a8e864d04c95572d1aece099af852d0a,51,Other,40,81.78,One-Year,DSL,3271.2,Yes,No
+7143d7fbadfa4693b9eec507d9d37443,46,Other,58,68.62,One-Year,Fiber Optic,3979.96,Yes,No
+72da7fd6d1302c0a159f6436d01e9eb0,31,Other,2,54.83,Month-to-Month,Fiber Optic,109.66,Yes,Yes
+6e0721b2c6977135b916ef286bcb49ec,48,Other,3,99.17,Month-to-Month,Fiber Optic,297.51,Yes,Yes
+fc8001f834f6a5f0561080d134d53d29,51,Other,57,50.36,Month-to-Month,Fiber Optic,2870.52,No,Yes
+4b04a686b0ad13dce35fa99fa4161c65,50,Other,26,92.31,Month-to-Month,Fiber Optic,2400.06,Yes,Yes
+61b4a64be663682e8cb037d9719ad8cd,55,Other,42,51.0,Month-to-Month,,2142.0,No,Yes
+3621f1454cacf995530ea53652ddf8fb,53,Other,4,86.28,Two-Year,Fiber Optic,345.12,Yes,Yes
+c15da1f2b5e5ed6e6837a3802f0d1593,49,Other,17,97.24,Month-to-Month,DSL,1653.08,Yes,Yes
+68053af2923e00204c3ca7c6a3150cf7,44,Other,24,49.68,Month-to-Month,DSL,1192.32,Yes,Yes
+2dace78f80bc92e6d7493423d729448e,28,Other,22,35.39,One-Year,Fiber Optic,778.58,Yes,No
+df7f28ac89ca37bf1abd2f6c184fe1cf,49,Other,10,41.79,One-Year,,417.9,No,Yes
+96ea64f3a1aa2fd00c72faacf0cb8ac9,47,Other,0,84.54,Month-to-Month,DSL,0.0,Yes,Yes
+da8ce53cf0240070ce6c69c48cd588ee,47,Other,17,106.45,One-Year,,1809.65,No,Yes
+82489c9737cc245530c7a6ebef3753ec,32,Other,5,34.05,Month-to-Month,DSL,170.25,Yes,Yes
+7c590f01490190db0ed02a5070e20f01,34,Other,11,96.07,Month-to-Month,Fiber Optic,1056.77,Yes,Yes
+35cf8659cfcb13224cbd47863a34fc58,55,Other,63,60.72,Month-to-Month,,3825.36,No,Yes
+beb22fb694d513edcf5533cf006dfeae,44,Other,10,73.07,Two-Year,Fiber Optic,730.6999999999999,Yes,Yes
+9e3cfc48eccf81a0d57663e129aef3cb,51,Other,36,113.6,Month-to-Month,Fiber Optic,4089.6,Yes,Yes
+28267ab848bcf807b2ed53c3a8f8fc8a,45,Other,4,59.88,Month-to-Month,DSL,239.52,Yes,Yes
+7a53928fa4dd31e82c6ef826f341daec,45,Other,22,71.88,Month-to-Month,,1581.36,No,Yes
+1905aedab9bf2477edc068a355bba31a,54,Other,75,31.23,Two-Year,DSL,2342.25,No,Yes
+1141938ba2c2b13f5505d7c424ebae5f,39,Other,2,37.34,Month-to-Month,,74.68,No,Yes
+1aa48fc4880bb0c9b8a3bf979d3b917e,45,Other,0,53.27,Month-to-Month,DSL,0.0,Yes,Yes
+dc5689792e08eb2e219dce49e64c885b,40,Other,11,32.51,Month-to-Month,,357.60999999999996,No,Yes
+846c260d715e5b854ffad5f70a516c88,40,Other,1,86.82,Month-to-Month,Fiber Optic,86.82,Yes,Yes
+d58072be2820e8682c0a27c0518e805e,41,Other,27,68.38,One-Year,,1846.26,No,Yes
+6e7b33fdea3adc80ebd648fffb665bb8,47,Other,49,79.33,One-Year,Fiber Optic,3887.17,No,Yes
+a8ecbabae151abacba7dbde04f761c37,40,Other,11,45.72,Month-to-Month,,502.92,No,Yes
+32b30a250abd6331e03a2a1f16466346,57,Other,5,56.63,Month-to-Month,DSL,283.15000000000003,Yes,Yes
+b6edc1cd1f36e45daf6d7824d7bb2283,36,Other,11,89.74,Month-to-Month,DSL,987.14,Yes,Yes
+670e8a43b246801ca1eaca97b3e19189,43,Other,25,116.88,Month-to-Month,Fiber Optic,2922.0,Yes,Yes
+81e74d678581a3bb7a720b019f4f1a93,40,Other,0,34.54,Month-to-Month,DSL,0.0,Yes,Yes
+e0cf1f47118daebc5b16269099ad7347,59,Other,17,110.13,One-Year,DSL,1872.21,No,Yes
+96b9bff013acedfb1d140579e2fbeb63,46,Other,19,81.92,Two-Year,,1556.48,No,Yes
+71ad16ad2c4d81f348082ff6c4b20768,55,Other,20,80.75,Two-Year,,1615.0,No,Yes
+43fa7f58b7eac7ac872209342e62e8f1,30,Other,5,75.03,Two-Year,Fiber Optic,375.15,No,Yes
+31839b036f63806cba3f47b93af8ccb5,47,Other,25,36.25,One-Year,,906.25,No,Yes
+f0adc8838f4bdedde4ec2cfad0515589,53,Other,1,38.09,One-Year,Fiber Optic,38.09,Yes,Yes
+3b5dca501ee1e6d8cd7b905f4e1bf723,45,Other,4,84.08,Month-to-Month,DSL,336.32,Yes,Yes
+e2a2dcc36a08a345332c751b2f2e476c,55,Other,41,60.69,One-Year,,2488.29,No,Yes
+4558dbb6f6f8bb2e16d03b85bde76e2c,39,Other,26,112.55,Month-to-Month,Fiber Optic,2926.2999999999997,No,Yes
+afda332245e2af431fb7b672a68b659d,59,Other,0,66.59,Month-to-Month,,0.0,No,Yes
+632cee946db83e7a52ce5e8d6f0fed35,67,Other,5,42.9,One-Year,DSL,214.5,Yes,Yes
+677e09724f0e2df9b6c000b75b5da10d,41,Other,4,94.32,Month-to-Month,Fiber Optic,377.28,Yes,Yes
+d554f7bb7be44a7267068a7df88ddd20,40,Other,6,56.4,Month-to-Month,DSL,338.4,No,Yes
+795c7a7a5ec6b460ec00c5841019b9e9,59,Other,5,77.29,Two-Year,DSL,386.4500000000001,Yes,Yes
+fa3a3c407f82377f55c19c5d403335c7,60,Other,1,92.8,Month-to-Month,DSL,92.8,Yes,Yes
+c2626d850c80ea07e7511bbae4c76f4b,39,Other,12,111.02,Month-to-Month,,1332.24,No,Yes
+ce78d1da254c0843eb23951ae077ff5f,40,Other,26,101.3,Two-Year,,2633.7999999999997,No,Yes
+8e82ab7243b7c66d768f1b8ce1c967eb,42,Other,18,90.87,One-Year,,1635.66,No,Yes
+e0ec453e28e061cc58ac43f91dc2f3f0,31,Other,22,91.17,One-Year,Fiber Optic,2005.74,Yes,No
+7250eb93b3c18cc9daa29cf58af7a004,35,Other,1,115.13,Month-to-Month,Fiber Optic,115.13,Yes,Yes
+013a006f03dbc5392effeb8f18fda755,34,Other,60,56.62,Month-to-Month,DSL,3397.2,Yes,Yes
+301ad0e3bd5cb1627a2044908a42fdc2,37,Other,36,30.1,Two-Year,DSL,1083.6,No,Yes
+4d5b995358e7798bc7e9d9db83c612a5,44,Other,32,54.48,One-Year,Fiber Optic,1743.36,Yes,No
+ab88b15733f543179858600245108dd8,47,Other,34,49.61,One-Year,,1686.74,No,Yes
+b0b183c207f46f0cca7dc63b2604f5cc,60,Other,53,89.57,Month-to-Month,Fiber Optic,4747.21,Yes,Yes
+f9028faec74be6ec9b852b0a542e2f39,35,Other,15,87.03,Month-to-Month,DSL,1305.45,Yes,Yes
+8f7d807e1f53eff5f9efbe5cb81090fb,54,Other,4,83.41,Two-Year,DSL,333.64,Yes,Yes
+fa83a11a198d5a7f0bf77a1987bcd006,42,Other,19,31.46,Month-to-Month,DSL,597.74,No,Yes
+02a32ad2669e6fe298e607fe7cc0e1a0,44,Other,27,95.59,One-Year,Fiber Optic,2580.9300000000003,No,Yes
+fc3cf452d3da8402bebb765225ce8c0e,51,Other,26,59.12,Month-to-Month,,1537.12,No,Yes
+3d8e28caf901313a554cebc7d32e67e5,33,Other,14,89.86,One-Year,Fiber Optic,1258.04,Yes,No
+e97ee2054defb209c35fe4dc94599061,48,Other,1,80.09,Two-Year,,80.09,No,Yes
+b86e8d03fe992d1b0e19656875ee557c,46,Other,9,60.85,One-Year,Fiber Optic,547.65,No,Yes
+84f7e69969dea92a925508f7c1f9579a,49,Other,50,42.11,Month-to-Month,Fiber Optic,2105.5,Yes,Yes
+f4552671f8909587cf485ea990207f3b,47,Other,17,38.5,One-Year,DSL,654.5,No,Yes
+362e80d4df43b03ae6d3f8540cd63626,69,Other,15,104.84,One-Year,,1572.6,No,Yes
+fe8c15fed5f808006ce95eddb7366e35,38,Other,6,112.66,Month-to-Month,,675.96,No,Yes
+1efa39bcaec6f3900149160693694536,39,Other,9,88.48,Two-Year,DSL,796.32,No,Yes
+92fb0c6d1758261f10d052e6e2c1123c,38,Other,45,39.31,One-Year,Fiber Optic,1768.95,No,Yes
+22ac3c5a5bf0b520d281c122d1490650,39,Other,21,66.18,Two-Year,Fiber Optic,1389.7800000000002,Yes,No
+aff1621254f7c1be92f64550478c56e6,38,Other,30,95.6,One-Year,Fiber Optic,2868.0,Yes,No
+f7e9050c92a851b0016442ab604b0488,56,Other,12,100.18,Month-to-Month,,1202.16,No,Yes
+addfa9b7e234254d26e9c7f2af1005cb,59,Other,19,40.64,Month-to-Month,Fiber Optic,772.16,No,Yes
+8c235f89a8143a28a1d6067e959dd858,39,Other,5,30.0,Month-to-Month,Fiber Optic,150.0,Yes,Yes
+847cc55b7032108eee6dd897f3bca8a5,36,Other,24,94.09,Two-Year,DSL,2258.16,No,Yes
+a67f096809415ca1c9f112d96d27689b,49,Other,11,62.09,One-Year,DSL,682.99,No,Yes
+2a084e55c87b1ebcdaad1f62fdbbac8e,39,Other,11,52.9,One-Year,DSL,581.9,Yes,Yes
+fc49306d97602c8ed1be1dfbf0835ead,51,Other,20,31.16,Month-to-Month,DSL,623.2,No,Yes
+f9a40a4780f5e1306c46f1c8daecee3b,47,Other,55,78.63,Month-to-Month,,4324.65,No,Yes
+5ec91aac30eae62f4140325d09b9afd0,29,Other,1,106.6,One-Year,,106.6,No,Yes
+19b650660b253761af189682e03501dd,60,Other,34,116.19,Month-to-Month,DSL,3950.46,Yes,Yes
+1fc214004c9481e4c8073e85323bfd4b,62,Other,6,80.92,Month-to-Month,,485.52,No,Yes
+3b3dbaf68507998acd6a5a5254ab2d76,38,Other,11,76.3,One-Year,DSL,839.3,No,Yes
+ca8155f4d27f205953f9d3d7974bdd70,41,Other,0,37.66,Month-to-Month,Fiber Optic,0.0,Yes,Yes
+ede7e2b6d13a41ddf9f4bdef84fdc737,47,Other,7,79.4,Month-to-Month,DSL,555.8000000000001,Yes,Yes
+dd45045f8c68db9f54e70c67048d32e8,48,Other,13,64.2,Month-to-Month,Fiber Optic,834.6,Yes,Yes
+49c9adb18e44be0711a94e827042f630,51,Other,1,84.64,Month-to-Month,DSL,84.64,No,Yes
+22fb0cee7e1f3bde58293de743871417,65,Other,13,64.99,Two-Year,Fiber Optic,844.8699999999999,Yes,No
+aeb3135b436aa55373822c010763dd54,43,Other,52,51.63,Month-to-Month,Fiber Optic,2684.76,No,Yes
+43feaeeecd7b2fe2ae2e26d917b6477d,37,Other,2,38.55,Month-to-Month,,77.1,No,Yes
+98d6f58ab0dafbb86b083a001561bb34,31,Other,28,58.34,Month-to-Month,DSL,1633.52,Yes,Yes
+51ef186e18dc00c2d31982567235c559,37,Other,10,38.7,One-Year,DSL,387.0,Yes,Yes
+4b0a59ddf11c58e7446c9df0da541a84,44,Other,21,45.92,Month-to-Month,DSL,964.32,Yes,Yes
+67d16d00201083a2b118dd5128dd6f59,62,Other,6,118.86,One-Year,Fiber Optic,713.16,No,Yes
+352407221afb776e3143e8a1a0577885,39,Other,3,69.97,Month-to-Month,DSL,209.91,Yes,Yes
+dd8eb9f23fbd362da0e3f4e70b878c16,47,Other,3,77.87,Month-to-Month,,233.61,No,Yes
+d516b13671a4179d9b7b458a6ebdeb92,44,Other,1,108.63,Month-to-Month,Fiber Optic,108.63,Yes,Yes
+1f50893f80d6830d62765ffad7721742,56,Other,4,119.6,Two-Year,Fiber Optic,478.4,Yes,Yes
+7504adad8bb96320eb3afdd4df6e1f60,70,Other,21,82.44,Two-Year,Fiber Optic,1731.24,No,Yes
+6c3cf77d52820cd0fe646d38bc2145ca,39,Other,42,103.12,Month-to-Month,DSL,4331.04,No,Yes
+210f760a89db30aa72ca258a3483cc7f,40,Other,33,59.42,One-Year,DSL,1960.86,Yes,No
+170c944978496731ba71f34c25826a34,55,Other,23,57.52,Two-Year,Fiber Optic,1322.96,Yes,No
+0efe32849d230d7f53049ddc4a4b0c60,51,Other,2,66.24,Month-to-Month,Fiber Optic,132.48,Yes,Yes
+704afe073992cbe4813cae2f7715336f,63,Other,6,90.53,Two-Year,DSL,543.1800000000001,Yes,Yes
+7ce3284b743aefde80ffd9aec500e085,50,Other,7,91.4,Month-to-Month,DSL,639.8000000000001,No,Yes
+0a113ef6b61820daa5611c870ed8d5ee,41,Other,5,58.37,Two-Year,,291.84999999999997,No,Yes
+07871915a8107172b3b5dc15a6574ad3,50,Other,14,41.99,One-Year,DSL,587.86,Yes,No
+024d7f84fff11dd7e8d9c510137a2381,56,Other,15,86.92,Two-Year,,1303.8,No,Yes
+cfbce4c1d7c425baf21d6b6f2babe6be,53,Other,8,41.55,One-Year,,332.4,No,Yes
+c2aee86157b4a40b78132f1e71a9e6f1,50,Other,8,82.06,Month-to-Month,DSL,656.48,Yes,Yes
+d56b9fc4b0f1be8871f5e1c40c0067e7,55,Other,35,92.41,Two-Year,DSL,3234.35,Yes,No
+4b0250793549726d5c1ea3906726ebfe,56,Other,31,93.06,Month-to-Month,DSL,2884.86,Yes,Yes
+20aee3a5f4643755a79ee5f6a73050ac,58,Other,7,97.81,Month-to-Month,Fiber Optic,684.6700000000001,Yes,Yes
+061412e4a03c02f9902576ec55ebbe77,51,Other,49,108.56,One-Year,Fiber Optic,5319.4400000000005,Yes,Yes
+5705e1164a8394aace6018e27d20d237,43,Other,61,75.0,One-Year,,4575.0,No,Yes
+a64c94baaf368e1840a1324e839230de,46,Other,7,95.72,Two-Year,,670.04,No,Yes
+01882513d5fa7c329e940dda99b12147,57,Other,8,85.73,Month-to-Month,Fiber Optic,685.84,No,Yes
+acf4b89d3d503d8252c9c4ba75ddbf6d,36,Other,14,46.8,One-Year,DSL,655.1999999999999,Yes,No
+892c91e0a653ba19df81a90f89d99bcd,48,Other,56,32.31,One-Year,DSL,1809.36,Yes,No
+b6a1085a27ab7bff7550f8a3bd017df8,41,Other,41,55.61,Month-to-Month,,2280.01,No,Yes
+aa169b49b583a2b5af89203c2b78c67c,45,Other,2,69.87,Month-to-Month,DSL,139.74,No,Yes
+f47d0ad31c4c49061b9e505593e3db98,57,Other,9,85.54,Month-to-Month,DSL,769.86,No,Yes
+f57a2f557b098c43f11ab969efe1504b,46,Other,16,106.5,Month-to-Month,,1704.0,No,Yes
+c8fbbc86abe8bd6a5eb6a3b4d0411301,45,Other,13,47.66,Two-Year,Fiber Optic,619.5799999999999,Yes,No
+621461af90cadfdaf0e8d4cc25129f91,31,Other,4,41.3,One-Year,,165.2,No,Yes
+8b6dd7db9af49e67306feb59a8bdc52c,52,Other,39,116.71,One-Year,Fiber Optic,4551.69,Yes,Yes
+a4300b002bcfb71f291dac175d52df94,51,Other,22,39.72,Two-Year,DSL,873.8399999999999,No,Yes
+e205ee2a5de471a70c1fd1b46033a75f,66,Other,36,73.06,Month-to-Month,,2630.16,No,Yes
+b56a18e0eacdf51aa2a5306b0f533204,41,Other,39,82.7,Two-Year,DSL,3225.3,Yes,No
+2a9d121cd9c3a1832bb6d2cc6bd7a8a7,47,Other,27,78.72,Month-to-Month,Fiber Optic,2125.44,Yes,Yes
+8b5040a8a5baf3e0e67386c2e3a9b903,47,Other,11,37.74,Two-Year,Fiber Optic,415.14,Yes,Yes
+7634ea65a4e6d9041cfd3f7de18e334a,60,Other,18,35.13,Month-to-Month,DSL,632.34,No,Yes
+24896ee4c6526356cc127852413ea3b4,44,Other,3,39.49,Two-Year,Fiber Optic,118.47,Yes,Yes
+23ce1851341ec1fa9e0c259de10bf87c,47,Other,22,82.7,Month-to-Month,DSL,1819.4,Yes,Yes
+da0d1111d2dc5d489242e60ebcbaf988,51,Other,3,78.99,Month-to-Month,Fiber Optic,236.96999999999997,Yes,Yes
+1e056d2b0ebd5c878c550da6ac5d3724,46,Other,23,51.04,One-Year,Fiber Optic,1173.92,Yes,No
+3e89ebdb49f712c7d90d1b39e348bbbf,40,Other,5,87.4,Month-to-Month,,437.0,No,Yes
+6d0f846348a856321729a2f36734d1a7,46,Other,2,103.81,One-Year,,207.62,No,Yes
+430c3626b879b4005d41b8a46172e0c0,55,Other,3,33.74,Month-to-Month,DSL,101.22,Yes,Yes
+ccc0aa1b81bf81e16c676ddb977c5881,34,Other,0,74.83,One-Year,Fiber Optic,0.0,No,Yes
+c4015b7f368e6b4871809f49debe0579,46,Other,25,92.04,Month-to-Month,Fiber Optic,2301.0,No,Yes
+bea5955b308361a1b07bc55042e25e54,37,Other,26,52.71,Month-to-Month,DSL,1370.46,No,Yes
+7fa732b517cbed14a48843d74526c11a,56,Other,14,57.7,Month-to-Month,,807.8000000000001,No,Yes
+cbb6a3b884f4f88b3a8e3d44c636cbd8,29,Other,3,85.23,Month-to-Month,,255.69,No,Yes
+1f4477bad7af3616c1f933a02bfabe4e,39,Other,1,110.81,Month-to-Month,DSL,110.81,Yes,Yes
+d045c59a90d7587d8d671b5f5aec4e7c,48,Other,0,102.89,Month-to-Month,Fiber Optic,0.0,Yes,Yes
+0d0871f0806eae32d30983b62252da50,60,Other,3,82.48,Month-to-Month,DSL,247.44,No,Yes
+1cc3633c579a90cfdd895e64021e2163,44,Other,44,95.72,Month-to-Month,Fiber Optic,4211.68,No,Yes
+9f53d83ec0691550f7d2507d57f4f5a2,39,Other,5,62.83,One-Year,DSL,314.15,No,Yes
+d2ed45a52bc0edfa11c2064e9edee8bf,63,Other,8,87.69,Two-Year,,701.52,No,Yes
+043c3d7e489c69b48737cc0c92d0f3a2,30,Other,2,71.96,Month-to-Month,,143.92,No,Yes
+4daa3db355ef2b0e64b472968cb70f0d,23,Other,5,47.09,One-Year,Fiber Optic,235.45,Yes,Yes
+e820a45f1dfc7b95282d10b6087e11c0,49,Other,14,93.16,One-Year,Fiber Optic,1304.24,Yes,No
+90794e3b050f815354e3e29e977a88ab,39,Other,18,80.08,Month-to-Month,,1441.44,No,Yes
+b7892fb3c2f009c65f686f6355c895b5,34,Other,5,62.28,One-Year,Fiber Optic,311.4,Yes,Yes
+74bba22728b6185eec06286af6bec36d,52,Other,1,112.02,Month-to-Month,DSL,112.02,Yes,Yes
+3df1d4b96d8976ff5986393e8767f5b2,47,Other,9,31.88,One-Year,Fiber Optic,286.92,Yes,Yes
+8d6dc35e506fc23349dd10ee68dabb64,39,Other,5,58.42,Month-to-Month,,292.1,No,Yes
+92262bf907af914b95a0fc33c3f33bf6,32,Other,4,35.12,One-Year,Fiber Optic,140.48,Yes,Yes
+b55ec28c52d5f6205684a473a2193564,53,Other,64,98.99,One-Year,Fiber Optic,6335.36,No,Yes
+2f885d0fbe2e131bfc9d98363e55d1d4,51,Other,19,93.19,Month-to-Month,,1770.61,No,Yes
+64223ccf70bbb65a3a4aceac37e21016,44,Other,16,59.82,Month-to-Month,,957.12,No,Yes
+4b6538a44a1dfdc2b83477cd76dee98e,63,Other,10,90.81,Two-Year,,908.1,No,Yes
+c8c41c4a18675a74e01c8a20e8a0f662,34,Other,11,65.63,Month-to-Month,DSL,721.93,No,Yes
+c4b31ce7d95c75ca70d50c19aef08bf1,29,Other,15,98.06,One-Year,Fiber Optic,1470.9,Yes,No
+58e4d44e550d0f7ee0a23d6b02d9b0db,38,Other,23,70.88,Two-Year,,1630.2399999999998,No,Yes
+3cef96dcc9b8035d23f69e30bb19218a,44,Other,24,67.11,One-Year,,1610.64,No,Yes
+a3d68b461bd9d3533ee1dd3ce4628ed4,47,Other,3,114.13,One-Year,Fiber Optic,342.39,Yes,Yes
+1c1d4df596d01da60385f0bb17a4a9e0,42,Other,13,52.58,One-Year,DSL,683.54,Yes,No
+e6cb2a3c14431b55aa50c06529eaa21b,48,Other,10,40.84,Two-Year,,408.4,No,Yes
+9232fe81225bcaef853ae32870a2b0fe,32,Other,40,82.61,Month-to-Month,,3304.4,No,Yes
+6395ebd0f4b478145ecfbaf939454fa4,59,Other,19,117.24,Month-to-Month,DSL,2227.56,No,Yes
+ef4e3b775c934dada217712d76f3d51f,44,Other,15,64.01,Month-to-Month,Fiber Optic,960.15,No,Yes
+168908dd3227b8358eababa07fcaf091,56,Other,2,35.58,Two-Year,DSL,71.16,No,Yes
+2ba596643cbbbc20318224181fa46b28,48,Other,18,60.54,One-Year,Fiber Optic,1089.72,Yes,No
+d240e3d38a8882ecad8633c8f9c78c9b,49,Other,2,75.53,Month-to-Month,DSL,151.06,No,Yes
+0f840be9b8db4d3fbd5ba2ce59211f55,50,Other,8,44.57,Two-Year,Fiber Optic,356.56,Yes,Yes
+437d7d1d97917cd627a34a6a0fb41136,49,Other,3,89.23,Month-to-Month,Fiber Optic,267.69,Yes,Yes
+d707329bece455a462b58ce00d1194c9,51,Other,23,119.8,Month-to-Month,Fiber Optic,2755.4,Yes,Yes
+5c936263f3428a40227908d5a3847c0b,58,Other,4,70.66,One-Year,Fiber Optic,282.64,Yes,Yes
+1ce927f875864094e3906a4a0b5ece68,46,Other,9,61.93,Month-to-Month,,557.37,No,Yes
+8065d07da4a77621450aa84fee5656d9,52,Other,45,66.06,Two-Year,DSL,2972.7000000000003,Yes,No
+eeb69a3cb92300456b6a5f4162093851,44,Other,4,40.36,Month-to-Month,DSL,161.44,Yes,Yes
+4e0cb6fb5fb446d1c92ede2ed8780188,59,Other,14,109.49,Two-Year,,1532.86,No,Yes
+6cfe0e6127fa25df2a0ef2ae1067d915,38,Other,10,67.33,One-Year,DSL,673.3,Yes,Yes
+8f468c873a32bb0619eaeb2050ba45d1,63,Other,0,64.85,Month-to-Month,,0.0,No,Yes
+e744f91c29ec99f0e662c9177946c627,44,Other,31,89.37,Two-Year,,2770.4700000000003,No,Yes
+89fcd07f20b6785b92134bd6c1d0fa42,30,Other,1,69.78,One-Year,Fiber Optic,69.78,Yes,Yes
+6602294be910b1e3c4571bd98c4d5484,46,Other,12,88.34,Month-to-Month,,1060.08,No,Yes
+c22abfa379f38b5b0411bc11fa9bf92f,38,Other,16,35.53,Month-to-Month,DSL,568.48,Yes,Yes
+ca75910166da03ff9d4655a0338e6b09,53,Other,19,103.24,Two-Year,Fiber Optic,1961.56,Yes,Yes
+4311359ed4969e8401880e3c1836fbe1,38,Other,23,114.65,Month-to-Month,Fiber Optic,2636.9500000000003,Yes,Yes
+92977ae4d2ba21425a59afb269c2a14e,40,Other,5,88.39,Month-to-Month,Fiber Optic,441.95,Yes,Yes
+9c01802ddb981e6bcfbec0f0516b8e35,26,Other,0,115.91,Month-to-Month,,0.0,No,Yes
+cc1aa436277138f61cda703991069eaf,40,Other,25,43.63,Month-to-Month,DSL,1090.75,Yes,Yes
+2ab56412b1163ee131e1246da0955bd1,20,Other,15,72.97,One-Year,Fiber Optic,1094.55,Yes,No
+c32d9bf27a3da7ec8163957080c8628e,29,Other,36,84.16,Month-to-Month,Fiber Optic,3029.76,Yes,Yes
+d79aac075930c83c2f1e369a511148fe,52,Other,34,82.36,Month-to-Month,Fiber Optic,2800.24,No,Yes
+287e03db1d99e0ec2edb90d079e142f3,52,Other,37,66.13,Month-to-Month,DSL,2446.81,Yes,Yes
+fec8d47d412bcbeece3d9128ae855a7a,49,Other,13,60.43,Month-to-Month,Fiber Optic,785.59,Yes,Yes
+6aab1270668d8cac7cef2566a1c5f569,35,Other,8,41.41,Two-Year,,331.28,No,Yes
+d93ed5b6db83be78efb0d05ae420158e,44,Other,31,65.26,Month-to-Month,DSL,2023.06,Yes,Yes
+54a367d629152b720749e187b3eaa11b,44,Other,12,44.64,Two-Year,,535.6800000000001,No,Yes
+fe7ee8fc1959cc7214fa21c4840dff0a,33,Other,4,96.09,Month-to-Month,Fiber Optic,384.36,Yes,Yes
+df6d2338b2b8fce1ec2f6dda0a630eb0,60,Other,38,48.79,Month-to-Month,,1854.02,No,Yes
+9908279ebbf1f9b250ba689db6a0222b,53,Other,42,35.27,Two-Year,,1481.34,No,Yes
+a1140a3d0df1c81e24ae954d935e8926,42,Other,12,79.71,Month-to-Month,DSL,956.52,Yes,Yes
+4fac9ba115140ac4f1c22da82aa0bc7f,45,Other,1,83.57,One-Year,Fiber Optic,83.57,Yes,Yes
+692f93be8c7a41525c0baf2076aecfb4,47,Other,9,108.47,Two-Year,,976.23,No,Yes
+860320be12a1c050cd7731794e231bd3,24,Other,32,81.93,Month-to-Month,Fiber Optic,2621.76,Yes,Yes
+7b13b2203029ed80337f27127a9f1d28,42,Other,46,61.09,Month-to-Month,,2810.1400000000003,No,Yes
+934815ad542a4a7c5e8a2dfa04fea9f5,38,Other,4,102.27,One-Year,Fiber Optic,409.08,No,Yes
+2bcab9d935d219641434683dd9d18a03,34,Other,1,78.63,Month-to-Month,DSL,78.63,No,Yes
+0b8aff0438617c055eb55f0ba5d226fa,42,Other,41,37.14,Month-to-Month,Fiber Optic,1522.74,Yes,Yes
+ec5aa0b7846082a2415f0902f0da88f2,62,Other,9,80.93,Month-to-Month,,728.3700000000001,No,Yes
+9ab0d88431732957a618d4a469a0d4c3,51,Other,15,111.72,Month-to-Month,Fiber Optic,1675.8,Yes,Yes
+b706835de79a2b4e80506f582af3676a,39,Other,68,65.67,One-Year,,4465.56,No,Yes
+a9b7ba70783b617e9998dc4dd82eb3c5,50,Other,1,56.67,Month-to-Month,,56.67,No,Yes
