@@ -32,8 +32,7 @@ This project implements a lightweight ETL pipeline for ingesting, transforming, 
 1. **Clone this repository**
 
 ```bash
-git clone <repo_url>
-cd <repo_folder>
+git clone https://github.com/deepti94/etl-pipeline-postgres-jupyter.git
 ```
 
 2. **Create and activate a virtual environment**
